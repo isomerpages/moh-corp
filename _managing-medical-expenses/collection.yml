@@ -1,4 +1,5 @@
 collections:
   managing-medical-expenses:
     output: true
-    order: []
+    order:
+      - Schemes and Subsidies.md

@@ -1,4 +1,5 @@
 collections:
   caring-for-your-health:
     output: true
-    order: []
+    order:
+      - Healthy Living/.keep

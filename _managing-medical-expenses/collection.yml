@@ -2,6 +2,6 @@ collections:
   managing-medical-expenses:
     output: true
     order:
-      - Fee Benchmarks.md
-      - Keeping Healthcare Affordable.md
       - Schemes and Subsidies.md
+      - Keeping Healthcare Affordable.md
+      - Fee Benchmarks.md

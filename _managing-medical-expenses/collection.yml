@@ -1,0 +1,4 @@
+collections:
+  managing-medical-expenses:
+    output: true
+    order: []

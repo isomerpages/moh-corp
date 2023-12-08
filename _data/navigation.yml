@@ -2,7 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Caring For Your Health
+    collection: caring-for-your-health
   - title: Managing Medical Expenses
     collection: managing-medical-expenses

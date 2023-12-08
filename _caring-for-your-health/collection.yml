@@ -2,6 +2,7 @@ collections:
   caring-for-your-health:
     output: true
     order:
+      - Healthy Living/Get health tips.md
       - Healthy Living/Go for health screening.md
       - Healthy Living/.keep
       - Healthy Living/Take preventive care.md

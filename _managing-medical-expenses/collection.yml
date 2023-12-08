@@ -2,7 +2,7 @@ collections:
   managing-medical-expenses:
     output: true
     order:
-      - Schemes and Subsidies/Schemes and Subsidies.md
+      - Schemes and Subsidies/Medisave.md
       - Schemes and Subsidies/.keep
       - Keeping Healthcare Affordable.md
       - Fee Benchmarks.md

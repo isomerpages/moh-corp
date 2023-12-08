@@ -7,10 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Ministry of Health
       background: /images/hero-banner.png
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Healthier SG
@@ -25,6 +23,10 @@ sections:
         - title: MediShield Life
           description: ""
           url: ""
+      variant: floating
+      backgroundColor: gray
+      size: md
+      alignment: right
   - textcards:
       title: Keeping healthcare affordable
       subtitle: Schemes and subsidies

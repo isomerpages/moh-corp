@@ -13,15 +13,18 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Healthier SG
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Preventive care
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Get vaccinated
+          description: ""
           url: /privacy/
+        - title: MediShield Life
+          description: ""
+          url: ""
   - textcards:
       title: Keeping healthcare affordable
       subtitle: Schemes and subsidies

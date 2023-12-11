@@ -1,0 +1,4 @@
+collections:
+  ageing-well:
+    output: true
+    order: []

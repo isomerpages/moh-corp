@@ -2,6 +2,7 @@ collections:
   caring-for-your-health:
     output: true
     order:
+      - Caring for Your Health.md
       - Getting medical help/See a family Doctor.md
       - Getting medical help/.keep
       - Healthy Living/.keep

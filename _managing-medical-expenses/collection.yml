@@ -2,10 +2,10 @@ collections:
   managing-medical-expenses:
     output: true
     order:
-      - Schemes and Subsidies/CHAS.md
       - Schemes and Subsidies/.keep
       - Schemes and Subsidies/Medisave.md
       - Schemes and Subsidies/MediShield Life.md
       - Schemes and Subsidies/CareShield Life.md
+      - Schemes and Subsidies/CHAS.md
       - Keeping Healthcare Affordable.md
       - Fee Benchmarks.md

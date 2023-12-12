@@ -46,4 +46,38 @@ sections:
             disability.
           linktext: Read more
           url: ""
+  - textcards:
+      title: Know your health condition
+      subtitle: Diseases and conditions
+      id: textcards
+      description: Learn about various diseases and illnesses and how you can manage them
+      cards:
+        - title: Diabetes
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Hypertension
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Cancer
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Stroke
+          description: ""
+          linktext: Learn more
+          url: ""
+  - infopic:
+      title: Opening minds about mental heath
+      id: infopic
+      description: Mental well-deing is part of our overall health. Yet, it is often
+        misunderstood.
+      button: Learn about mental health
+      url: /
+      alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---

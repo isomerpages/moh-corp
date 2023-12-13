@@ -23,7 +23,7 @@ sections:
         - title: MediShield Life
           description: ""
           url: ""
-      variant: floating
+      variant: center
       backgroundColor: gray
       size: md
       alignment: right

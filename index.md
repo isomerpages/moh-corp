@@ -27,6 +27,10 @@ sections:
       backgroundColor: gray
       size: md
       alignment: right
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
   - textcards:
       title: Keeping healthcare affordable
       subtitle: Schemes and subsidies
@@ -76,8 +80,4 @@ sections:
       button: Learn about mental health
       url: /
       alt: Image alt text
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
 ---

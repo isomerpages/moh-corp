@@ -1,0 +1,4 @@
+collections:
+  dgs-table-drug-list:
+    output: true
+    order: []

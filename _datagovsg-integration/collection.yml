@@ -1,4 +1,4 @@
 collections:
-  dgs-table-drug-list:
+  datagovsg-integration:
     output: true
     order: []

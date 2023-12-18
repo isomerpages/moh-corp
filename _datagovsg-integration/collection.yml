@@ -1,4 +1,5 @@
 collections:
   datagovsg-integration:
     output: true
-    order: []
+    order:
+      - Drug List.md

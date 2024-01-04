@@ -6,3 +6,5 @@ links:
     collection: managing-medical-expenses
   - title: Join Us
     collection: join-us
+  - title: Newsroom
+    resource_room: true

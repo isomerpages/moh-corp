@@ -81,4 +81,5 @@ sections:
       button: Learn about mental health
       url: /
       alt: Image alt text
+      image: /images/two_asian_women_chatting_by_window.jpg
 ---

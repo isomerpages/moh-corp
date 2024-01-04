@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Ministry of Health
-      background: /images/hero-banner.png
+      background: /images/rear_view_three_man_girl_jogging_together_summer_day.jpg
       url: /contact-us/
       key_highlights:
         - title: Healthier SG
@@ -23,10 +23,11 @@ sections:
         - title: MediShield Life
           description: ""
           url: ""
-      variant: center
+      variant: side
       backgroundColor: gray
       size: md
       alignment: right
+      subtitle: Better Health, Better Care, Better Life
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room

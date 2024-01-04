@@ -4,9 +4,9 @@ links:
     collection: caring-for-your-health
   - title: Managing Medical Expenses
     collection: managing-medical-expenses
-  - title: Join Us
-    collection: join-us
   - title: Newsroom
     resource_room: true
   - title: Research and Data
     url: /research-and-data
+  - title: Join Us
+    collection: join-us

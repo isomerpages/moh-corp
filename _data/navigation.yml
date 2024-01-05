@@ -3,7 +3,7 @@ links:
   - title: Caring For Your Health
     collection: caring-for-your-health
   - title: Ageing Well
-    url: /ageing-well
+    url: /ageing-well/
     sublinks:
       - title: Test
         url: /test

@@ -2,4 +2,4 @@ collections:
   ageing-well:
     output: true
     order:
-      - Ageing Well.md
+      - Ageing In The Community.md

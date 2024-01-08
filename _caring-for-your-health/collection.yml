@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Caring for Your Health.md
-      - Getting medical help/See a family Doctor.md
-      - Getting medical help/.keep
       - Healthy Living/.keep
       - Healthy Living/Take preventive care.md
       - Healthy Living/Healthier SG.md

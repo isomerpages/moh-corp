@@ -2,6 +2,6 @@ collections:
   caring-for-your-health:
     output: true
     order:
-      - Health Conditions.md
-      - Getting Medical Help.md
       - Healthy Living.md
+      - Getting Medical Help.md
+      - Health Conditions.md

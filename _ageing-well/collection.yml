@@ -1,4 +1,5 @@
 collections:
   ageing-well:
     output: true
-    order: []
+    order:
+      - Ageing Well.md

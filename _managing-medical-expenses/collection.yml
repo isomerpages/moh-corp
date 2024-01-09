@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Schemes and Subsidies/.keep
-      - Schemes and Subsidies/Managing Medical Expenses.md
       - Schemes and Subsidies/Medisave.md
       - Schemes and Subsidies/MediShield Life.md
       - Schemes and Subsidies/CareShield Life.md

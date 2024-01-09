@@ -2,5 +2,5 @@ collections:
   ageing-well:
     output: true
     order:
-      - Care Services.md
       - Ageing In The Community.md
+      - Care Services.md

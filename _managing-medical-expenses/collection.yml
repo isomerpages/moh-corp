@@ -2,7 +2,6 @@ collections:
   managing-medical-expenses:
     output: true
     order:
-      - Managing Medical Expenses.md
       - Schemes and Subsidies/Managing Medical Expenses.md
       - Schemes and Subsidies/.keep
       - Schemes and Subsidies/Medisave.md

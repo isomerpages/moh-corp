@@ -1,7 +1,0 @@
-collections:
-  join-us:
-    output: true
-    order:
-      - Jobs and Careers.md
-      - Scholarships and Internships.md
-      - Volunteer With Us.md

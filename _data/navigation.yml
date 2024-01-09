@@ -5,10 +5,7 @@ links:
   - title: Caring For Your Health
     collection: caring-for-your-health
   - title: Ageing Well
-    url: /ageing-well/
-    sublinks:
-      - title: Test
-        url: /test
+    collection: ageing-well
   - title: Managing Medical Expenses
     collection: managing-medical-expenses
   - title: Newsroom

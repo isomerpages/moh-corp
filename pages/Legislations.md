@@ -4,3 +4,4 @@ permalink: /legislations/
 variant: tiptap
 description: ""
 ---
+<p></p>

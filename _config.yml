@@ -2,8 +2,8 @@ title: Ministry of Health
 url: https://www.moh.gov.sg
 favicon: /images/favicon.png
 colors:
-  primary-color: "#0d515c"
-  secondary-color: "#68ae38"
+  primary-color: "#68ae38"
+  secondary-color: "#0d515c"
   media-colors:
     - title: media-color-one
       color: "#a4385c"

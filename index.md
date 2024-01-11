@@ -51,28 +51,6 @@ sections:
             disability.
           linktext: Read more
           url: ""
-  - textcards:
-      title: Know your health condition
-      subtitle: Diseases and conditions
-      id: textcards
-      description: Learn about various diseases and illnesses and how you can manage them
-      cards:
-        - title: Diabetes
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Hypertension
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Cancer
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Stroke
-          description: ""
-          linktext: Learn more
-          url: ""
   - infopic:
       title: Opening minds about mental heath
       id: infopic
@@ -82,4 +60,12 @@ sections:
       url: /
       alt: Image alt text
       image: /images/two_asian_women_chatting_by_window.jpg
+  - infopic:
+      title: Know your health condition
+      subtitle: Health diseases & conditions
+      id: infopic
+      description: Learn about various diseases and conditions and how you can manage them.
+      button: Read more
+      url: /caring-for-your-health/health-conditions/
+      alt: Image alt text
 ---

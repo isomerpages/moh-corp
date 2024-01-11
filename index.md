@@ -32,6 +32,15 @@ sections:
       title: Newsroom
       subtitle: Keep up with the latest news
       id: resources
+  - infopic:
+      title: Know your health condition
+      subtitle: Health diseases & conditions
+      id: infopic
+      description: Learn about various diseases and conditions and how you can manage them.
+      button: Read more
+      url: /caring-for-your-health/health-conditions/
+      alt: Image alt text
+      image: /images/young_male_psysician_with_patient_measuring_blood_pressure.jpg
   - textcards:
       title: Keeping healthcare affordable
       subtitle: Schemes and subsidies
@@ -60,12 +69,4 @@ sections:
       url: /
       alt: Image alt text
       image: /images/two_asian_women_chatting_by_window.jpg
-  - infopic:
-      title: Know your health condition
-      subtitle: Health diseases & conditions
-      id: infopic
-      description: Learn about various diseases and conditions and how you can manage them.
-      button: Read more
-      url: /caring-for-your-health/health-conditions/
-      alt: Image alt text
 ---

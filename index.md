@@ -4,11 +4,11 @@ title: Ministry of Health
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Ministry of Health
-      background: /images/rear_view_three_man_girl_jogging_together_summer_day.jpg
+      background: /images/Mock_Website_Banner.jpg
       url: /contact-us/
       key_highlights:
         - title: Healthier SG

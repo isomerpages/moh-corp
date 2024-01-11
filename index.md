@@ -29,8 +29,8 @@ sections:
       alignment: right
       subtitle: Better Health, Better Care, Better Life
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: Newsroom
+      subtitle: Keep up with the latest news
       id: resources
   - textcards:
       title: Keeping healthcare affordable

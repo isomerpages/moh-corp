@@ -2,19 +2,19 @@ title: Ministry of Health
 url: https://www.moh.gov.sg
 favicon: /images/favicon.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#0d515c"
+  secondary-color: "#68ae38"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#a4385c"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#e9eef3"
     - title: media-color-three
-      color: "#00838f"
+      color: "#2fa3a7"
     - title: media-color-four
-      color: "#00838f"
+      color: "#0d515c"
     - title: media-color-five
-      color: "#00838f"
+      color: "#c795b9"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""

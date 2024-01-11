@@ -10,6 +10,8 @@ links:
     collection: managing-medical-expenses
   - title: Newsroom
     resource_room: true
+  - title: Research
+    url: /research
   - title: Others
     url: /others
     sublinks:

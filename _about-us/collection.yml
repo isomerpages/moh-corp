@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Join Us/Join Us.md
-      - Join Us/Scholarships and Internships.md
-      - Join Us/.keep
       - Who We Are.md
       - Mission and Values.md
       - Our Senior Management.md
       - Our Partners.md
       - Organisation Structure.md
+      - Join Us/.keep
+      - Join Us/Join Us.md
+      - Join Us/Scholarships and Internships.md

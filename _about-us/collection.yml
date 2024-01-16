@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Join Us.md
       - Who We Are.md
       - Mission and Values.md
       - Our Senior Management.md

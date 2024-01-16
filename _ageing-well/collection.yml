@@ -2,6 +2,7 @@ collections:
   ageing-well:
     output: true
     order:
+      - Palliative Care.md
       - Ageing In The Community.md
       - Care Services.md
       - Caregiving.md

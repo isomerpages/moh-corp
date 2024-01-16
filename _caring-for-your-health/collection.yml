@@ -2,7 +2,7 @@ collections:
   caring-for-your-health:
     output: true
     order:
-      - Advanced Care Planning.md
       - Healthy Living.md
       - Getting Medical Help.md
       - Health Conditions.md
+      - Advanced Care Planning.md

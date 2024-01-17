@@ -14,12 +14,12 @@ sections:
         - title: Healthier SG
           description: ""
           url: https://google.com
-        - title: Preventive care
+        - title: Age Well SG
           description: ""
-          url: https://gmail.com
-        - title: Get vaccinated
+          url: https://agewellsg.gov.sg
+        - title: COVID-19
           description: ""
-          url: /privacy/
+          url: /caring-for-your-health/health-conditions
         - title: MediShield Life
           description: ""
           url: ""

@@ -22,7 +22,7 @@ sections:
           url: /caring-for-your-health/health-conditions
         - title: MediShield Life
           description: ""
-          url: ""
+          url: /managing-medical-expenses/schemes-and-subsidies/medishield-life/
       variant: image
       backgroundColor: gray
       size: md

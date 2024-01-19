@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Healthier SG
           description: ""
-          url: https://google.com
+          url: https://www.healthiersg.gov.sg/
         - title: Age Well SG
           description: ""
           url: https://agewellsg.gov.sg

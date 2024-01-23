@@ -63,7 +63,7 @@ sections:
   - infopic:
       title: Opening minds about mental heath
       id: infopic
-      description: Mental well-deing is part of our overall health. Yet, it is often
+      description: Mental well-being is part of our overall health. Yet, it is often
         misunderstood.
       button: Learn about mental health
       url: /

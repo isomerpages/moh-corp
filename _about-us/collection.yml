@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Healthcare Professionals/TCM Practitioners.md
       - Healthcare Professionals/Doctors.md
       - Healthcare Professionals/Dentists.md
       - Healthcare Professionals/.keep

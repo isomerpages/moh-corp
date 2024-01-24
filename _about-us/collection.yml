@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Healthcare Professionals.md
       - Who We Are.md
       - Mission, Vision and Values.md
       - Our Senior Management.md

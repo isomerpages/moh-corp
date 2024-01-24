@@ -2,7 +2,7 @@ collections:
   caring-for-your-health:
     output: true
     order:
-      - Find a Medical Facility.md
       - Healthy Living.md
       - Getting Medical Help.md
       - Health Conditions.md
+      - Find a Medical Facility.md

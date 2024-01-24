@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Healthcare Professionals/Healthcare Professionals.md
+      - Healthcare Professionals/Dentists.md
       - Healthcare Professionals/.keep
       - Who We Are.md
       - Mission, Vision and Values.md

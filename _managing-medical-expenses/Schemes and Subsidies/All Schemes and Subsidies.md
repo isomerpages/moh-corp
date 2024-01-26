@@ -11,7 +11,7 @@ third_nav_title: Schemes and Subsidies
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/healthcareschemes.png">
 </div>
 <p>View all healthcare financing schemes &amp; subsidies available in Singapore
-such as MediShield Life, CareShield Life, MediSave, CHAS and ElderShield.</p>
+such as MediShield Life, CareShield Life, MediSave, and CHAS.</p>
 <h3><strong>List of Schemes and Subsidies</strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moh.gov.sg/healthcare-schemes-subsidies/subsidies-for-acute-inpatient-care-at-public-healthcare-institutions" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Subsidies For Acute Inpatient Care At Public Healthcare Institutions</div><div class="isomer-card-description">The Ministry of Health (MOH) provides subsidies for acute inpatient care at public hospitals to ensure patients have access</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.moh.gov.sg/healthcare-schemes-subsidies/implant-subsidy-list" class="isomer-card">

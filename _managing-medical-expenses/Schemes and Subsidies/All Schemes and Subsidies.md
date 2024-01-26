@@ -104,8 +104,7 @@ third_nav_title: Schemes and Subsidies
                                 </div>
                                 </a>
                                 </div>
-                                <p></p>
-                                <p></p>
+                                <hr>
                                 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moh.gov.sg/healthcare-schemes-subsidies/interim-disability-assistance-programme-for-the-elderly" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Interim Disability Assistance Programme For The Elderly (IDAPE)</div><div class="isomer-card-description">Interim Disability Assistance Programme for the Elderly (IDAPE) is a government assistance scheme providing financial help to needy and disabled elderly Singaporeans who were not eligible to join ElderShield when it was launched in 2002.</div><div class="isomer-card-link">Read more</div></div></a>
                                     <a rel="noopener noreferrer nofollow" href="https://www.moh.gov.sg/healthcare-schemes-subsidies/caregiver-grants-subsidies" class="isomer-card">
                                         <div class="isomer-card-body">

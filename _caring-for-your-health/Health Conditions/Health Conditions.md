@@ -5,4 +5,131 @@ variant: tiptap
 description: ""
 third_nav_title: Health Conditions
 ---
-<h1><strong>Improving your health through knowledge</strong></h1><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/doctor_using_technology_document_management_computer_system_management_cardiologist_specialist_treating_heart_disease_treatment_hospital_dms_document_management_concept.jpg"></div><p><br>Improving your health through knowledge involves understanding key principles of a healthy lifestyle, making informed choices, and staying up-to-date on health-related information. Read up on the various health conditions below.</p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Health conditions</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Diabetes</p></td></tr><tr><td rowspan="1" colspan="1"><p>Hypertension</p></td></tr><tr><td rowspan="1" colspan="1"><p>Heart disease</p></td></tr><tr><td rowspan="1" colspan="1"><p>High blood pressure</p></td></tr><tr><td rowspan="1" colspan="1"><p>Asthma</p></td></tr><tr><td rowspan="1" colspan="1"><p>Prostate cancer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Stroke</p></td></tr><tr><td rowspan="1" colspan="1"><p>Depression</p></td></tr><tr><td rowspan="1" colspan="1"><p>Anxiety</p></td></tr><tr><td rowspan="1" colspan="1"><p>Bipolar disorder</p></td></tr><tr><td rowspan="1" colspan="1"><p>Dementia</p></td></tr><tr><td rowspan="1" colspan="1"><p>Epilepsy</p></td></tr><tr><td rowspan="1" colspan="1"><p>Arthritis</p></td></tr><tr><td rowspan="1" colspan="1"><p>Osteoporosis</p></td></tr><tr><td rowspan="1" colspan="1"><p>Psoriasis</p></td></tr><tr><td rowspan="1" colspan="1"><p>Schizophrenia</p></td></tr><tr><td rowspan="1" colspan="1"><p>Colorectal cancer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Hepatitis A</p></td></tr><tr><td rowspan="1" colspan="1"><p>High cholesterol</p></td></tr><tr><td rowspan="1" colspan="1"><p>Measles</p></td></tr></tbody></table><p></p><h3><strong>Planning for future healthcare options</strong></h3><p>Have you ever thought about how you would like to be cared for when you are in your older years? Take charge of your own care in your elder years with Advance Care Planning.</p><div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Advanced care planning</div><div class="isomer-card-description">Empowering Singaporeans to choose how they would like to be cared for.</div><div class="isomer-card-link">Learn more</div></div></a></div><p></p>
+<h1><strong>Improving your health through knowledge</strong></h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/doctor_using_technology_document_management_computer_system_management_cardiologist_specialist_treating_heart_disease_treatment_hospital_dms_document_management_concept.jpg">
+</div>
+<p>
+<br>Improving your health through knowledge involves understanding key principles
+of a healthy lifestyle, making informed choices, and staying up-to-date
+on health-related information. Read up on the various health conditions
+below.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Health conditions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Diabetes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hypertension</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Heart disease</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>High blood pressure</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asthma</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Prostate cancer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stroke</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Depression</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anxiety</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bipolar disorder</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dementia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Epilepsy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arthritis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Osteoporosis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Psoriasis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Schizophrenia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Colorectal cancer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hepatitis A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>High cholesterol</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Measles</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3><strong>Planning for future healthcare options</strong></h3>
+<p>Have you ever thought about how you would like to be cared for when you
+are in your older years? Take charge of your own care in your elder years
+with Advance Care Planning.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Advanced care planning</div><div class="isomer-card-description">Empowering Singaporeans to choose how they would like to be cared for.</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
+<p></p>

@@ -2,6 +2,7 @@ collections:
   caring-for-your-health:
     output: true
     order:
+      - Health Conditions/All health conditions.md
       - Health Conditions/Health Conditions.md
       - Health Conditions/.keep
       - Healthy Living.md

@@ -29,7 +29,8 @@ our risks together and ensure protection against potentially catastrophic
 long-term care costs, providing peace of mind.</p>
 <hr>
 <h3><strong>Who does CareShield Life cover?</strong></h3>
-<h6><strong>Singaporeans born in 1980 or later:</strong></h6>
+<p><strong>Singaporeans born in 1980 or later:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>You are automatically covered under CareShield Life from 1 October 2020,

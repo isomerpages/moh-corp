@@ -51,7 +51,7 @@ delivery networks.</p>
 <p>Singapore Health Services (SingHealth)</p>
 </li>
 </ul>
-<h4><strong>3 main groups within MOH</strong></h4>
+<h4><strong>3 Main Groups within MOH</strong></h4>
 <p>The work we do at MOH is implemented through our 3 main groups:</p>
 <ul data-tight="true" class="tight">
 <li>

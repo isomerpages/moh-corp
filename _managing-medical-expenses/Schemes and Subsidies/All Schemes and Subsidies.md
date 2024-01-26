@@ -104,5 +104,4 @@ third_nav_title: Schemes and Subsidies
                                 </div>
                                 </a>
                                 </div>
-                                <p>.</p>
                                 <p></p>

@@ -5,4 +5,37 @@ variant: tiptap
 description: ""
 third_nav_title: Healthcare Professionals
 ---
-<h2><strong>Strategy for Allied Health Professionals</strong></h2><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Allied.png"></div><p>To build a successful path in allied healthcare, keep yourself updated with the newest advancements, use modern technology and make your workspace friendly for patients.</p><p>We can also ask for feedback often, be part of the community and follow the regulated guidelines to help your healthcare practices succeed.</p><p></p><p><a href="https://cms.isomer.gov.sg/not-found" rel="noopener noreferrer nofollow" target="_blank">View all strategy</a></p><p></p><h2><strong>Guidelines</strong></h2><ul data-tight="true" class="tight"><li><p><a href="https://www.moh.gov.sg/hpp/allied-health-professionals/guidelines/GuidelineDetails/guidelines-on-the-governance-of-delegation-of-clinical-tasks-from-nurses-and-allied-health-professionals-to-support-care-staff-(-guidelines-)" class="guidelineLink" rel="noopener noreferrer nofollow" target="_blank">Guidelines on the Governance of Delegation of Clinical Tasks from Nurses and Allied Health Professionals to Support Care Staff (“Guidelines”) (11 Oct 2023)</a></p></li><li><p><a href="https://www.moh.gov.sg/hpp/allied-health-professionals/guidelines/GuidelineDetails/medisave-for-chronic-disease-management-program-and-vaccinations" class="guidelineLink" rel="noopener noreferrer nofollow" target="_blank">MediSave for the Chronic Disease Management Programme (CDMP) (02 Sep 2022)</a></p></li><li><p><a href="https://www.moh.gov.sg/hpp/allied-health-professionals/guidelines/GuidelineDetails/guidelines-for-application-statement-of-need-postgrad-medical-training-united-states" class="guidelineLink" rel="noopener noreferrer nofollow" target="_blank">Guidelines for the Application of a Statement of Need for Postgraduate Medical Training in the United States (USA) (01 Jun 2022)</a></p></li><li><p><a href="https://www.moh.gov.sg/hpp/allied-health-professionals/guidelines/GuidelineDetails/agency-for-care-effectiveness-guidance" class="guidelineLink" rel="noopener noreferrer nofollow" target="_blank">Agency for Care Effectiveness (ACE) Guidances (18 Apr 2018)</a></p></li></ul><p></p>
+<h2><strong>Strategy for Allied Health Professionals</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Allied.png">
+</div>
+<p>To build a successful path in allied healthcare, keep yourself updated
+with the newest advancements, use modern technology and make your workspace
+friendly for patients.</p>
+<p>We can also ask for feedback often, be part of the community and follow
+the regulated guidelines to help your healthcare practices succeed.</p>
+<p></p>
+<p><a href="https://cms.isomer.gov.sg/not-found" rel="noopener noreferrer nofollow" target="_blank">View all strategies</a>
+</p>
+<p></p>
+<h2><strong>Guidelines</strong></h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moh.gov.sg/hpp/allied-health-professionals/guidelines/GuidelineDetails/guidelines-on-the-governance-of-delegation-of-clinical-tasks-from-nurses-and-allied-health-professionals-to-support-care-staff-(-guidelines-)" class="guidelineLink" rel="noopener noreferrer nofollow" target="_blank">Guidelines on the Governance of Delegation of Clinical Tasks from Nurses and Allied Health Professionals to Support Care Staff (“Guidelines”) (11 Oct 2023)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moh.gov.sg/hpp/allied-health-professionals/guidelines/GuidelineDetails/medisave-for-chronic-disease-management-program-and-vaccinations" class="guidelineLink" rel="noopener noreferrer nofollow" target="_blank">MediSave for the Chronic Disease Management Programme (CDMP) (02 Sep 2022)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moh.gov.sg/hpp/allied-health-professionals/guidelines/GuidelineDetails/guidelines-for-application-statement-of-need-postgrad-medical-training-united-states" class="guidelineLink" rel="noopener noreferrer nofollow" target="_blank">Guidelines for the Application of a Statement of Need for Postgraduate Medical Training in the United States (USA) (01 Jun 2022)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moh.gov.sg/hpp/allied-health-professionals/guidelines/GuidelineDetails/agency-for-care-effectiveness-guidance" class="guidelineLink" rel="noopener noreferrer nofollow" target="_blank">Agency for Care Effectiveness (ACE) Guidances (18 Apr 2018)</a>
+</p>
+</li>
+</ul>
+<p></p>

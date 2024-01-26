@@ -65,7 +65,7 @@ sections:
       id: infopic
       description: Mental well-being is part of our overall health. Yet, it is often
         misunderstood.
-      button: Learn about mental health
+      button: read more
       url: /
       alt: Image alt text
       image: /images/two_asian_women_chatting_by_window.jpg

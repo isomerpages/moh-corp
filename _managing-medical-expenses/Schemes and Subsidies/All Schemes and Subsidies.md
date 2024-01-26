@@ -104,44 +104,4 @@ third_nav_title: Schemes and Subsidies
                                 </div>
                                 </a>
                                 </div>
-                                <hr>
-                                <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moh.gov.sg/healthcare-schemes-subsidies/interim-disability-assistance-programme-for-the-elderly" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Interim Disability Assistance Programme For The Elderly (IDAPE)</div><div class="isomer-card-description">Interim Disability Assistance Programme for the Elderly (IDAPE) is a government assistance scheme providing financial help to needy and disabled elderly Singaporeans who were not eligible to join ElderShield when it was launched in 2002.</div><div class="isomer-card-link">Read more</div></div></a>
-                                    <a rel="noopener noreferrer nofollow" href="https://www.moh.gov.sg/healthcare-schemes-subsidies/caregiver-grants-subsidies" class="isomer-card">
-                                        <div class="isomer-card-body">
-                                            <div class="isomer-card-title">Foreign Domestic Worker (FDW) Levy Concession For Persons With Disabilities</div>
-                                            <div class="isomer-card-description">The FDW Levy Concession for Persons with Disabilities is to support households
-                                                who need to hire FDW to care for seniors and disabled persons by paying
-                                                a lower monthly concessionary FDW levy.</div>
-                                        <div class="isomer-card-link">Read more</div>
-                                </div>
-                                </a><a rel="noopener noreferrer nofollow" href="https://www.moh.gov.sg/healthcare-schemes-subsidies/caregiver-grants-subsidies" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Seniors' Mobility And Enabling Fund (SMF)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read more</div></div></a>
-                                <a rel="noopener noreferrer nofollow" href="https://www.moh.gov.sg/healthcare-schemes-subsidies/caregiver-grants-subsidies" class="isomer-card">
-                                    <div class="isomer-card-body">
-                                        <div class="isomer-card-title">Caregivers Training Grant (CTG)</div>
-                                        <div class="isomer-card-description">The CTG supports caregivers of seniors and those with disability, including
-                                            family members and Foreign Domestic Workers (FDWs), to attend caregiver
-                                            training courses so that they can equip themselves with the necessary skills
-                                            in caring for the physical and emotional needs of their care recipients.</div>
-                                        <div class="isomer-card-link">Read more</div>
-                                    </div>
-                                    </a><a rel="noopener noreferrer nofollow" href="https://www.careshieldlife.gov.sg/home.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">ElderFund supports severely disabled lower-income Singapore Citizens aged 30 and above, who are excluded from CareShield Life, ElderShield and the Interim Disability Assistance Programme for the Elderly (IDAPE), and have low MediSave balances and inadequate personal savings for their healthcare.</div><div class="isomer-card-link">Read more</div></div></a>
-                                    <a rel="noopener noreferrer nofollow" href="https://www.moh.gov.sg/healthcare-schemes-subsidies/caregiver-grants-subsidies" class="isomer-card">
-                                        <div class="isomer-card-body">
-                                            <div class="isomer-card-title">Home Caregiving Grant (HCG)</div>
-                                            <div class="isomer-card-description">Home Caregiving Grant (HCG) can be used to defray the costs of caregiving
-                                                expenses, such as the costs of eldercare and caregiver support services
-                                                in the community, or hiring of a Foreign Domestic Worker (FDW).</div>
-                                            <div class="isomer-card-link">Read more</div>
-                                        </div>
-                                        </a><a rel="noopener noreferrer nofollow" href="https://www.moh.gov.sg/healthcare-schemes-subsidies/pioneer-generation-package" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Pioneer Generation Package</div><div class="isomer-card-description">The Pioneer Generation Package includes a host of initiatives aimed at making healthcare affordable for our pioneer generation for life.</div><div class="isomer-card-link">Read more</div></div></a>
-                                        <a rel="noopener noreferrer nofollow" href="https://www.moh.gov.sg/healthcare-schemes-subsidies/merdeka-generation-package" class="isomer-card">
-                                            <div class="isomer-card-body">
-                                                <div class="isomer-card-title">Merdeka Generation Package</div>
-                                                <div class="isomer-card-description">The Merdeka Generation Package supports the aspirations of Merdeka Generation
-                                                    seniors in their silver years by helping them to stay active and healthy
-                                                    and providing them better peace of mind over future healthcare costs.</div>
-                                                <div class="isomer-card-link">Read more</div>
-                                            </div>
-                                            </a>
-                                            </div>
-                                            <p></p>
+                                <p></p>

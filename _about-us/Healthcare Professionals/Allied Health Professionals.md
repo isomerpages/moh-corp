@@ -5,19 +5,16 @@ variant: tiptap
 description: ""
 third_nav_title: Healthcare Professionals
 ---
-<h2><strong>Strategy for Allied Health Professionals</strong></h2>
+<h2><strong>Allied Health Professionals</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Allied.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ahp.PNG">
 </div>
 <p>To build a successful path in allied healthcare, keep yourself updated
 with the newest advancements, use modern technology and make your workspace
 friendly for patients.</p>
 <p>We can also ask for feedback often, be part of the community and follow
 the regulated guidelines to help your healthcare practices succeed.</p>
-<p></p>
-<p><a href="https://cms.isomer.gov.sg/not-found" rel="noopener noreferrer nofollow" target="_blank">View all strategies</a>
-</p>
 <p></p>
 <h2><strong>Guidelines</strong></h2>
 <ul data-tight="true" class="tight">
@@ -38,4 +35,6 @@ the regulated guidelines to help your healthcare practices succeed.</p>
 </p>
 </li>
 </ul>
+<p><strong>For internal guidelines, click </strong><a href="https://www.moh.gov.sg/hpp/dentists/restricted-content" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>
+</p>
 <p></p>

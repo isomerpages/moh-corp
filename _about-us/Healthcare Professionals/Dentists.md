@@ -42,10 +42,28 @@ practice.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.moh.gov.sg/hpp/all-healthcare-professionals/guidelines/GuidelineDetails/drug-food-administration-instructions" class="guidelineLink" rel="noopener noreferrer nofollow" target="_blank"><u>Drug-Food Administration Instructions (28 Nov 2022)</u></a>
+<p><a href="https://www.moh.gov.sg/hpp/all-healthcare-professionals/guidelines/GuidelineDetails/drug-food-administration-instructions" class="guidelineLink" rel="noopener noreferrer nofollow" target="_blank"><u>Drug-Food Administration Instructions (28 Nov 2022)</u></a> 
 <br>
 </p>
 </li>
 </ul>
 <p><strong>For internal guidelines, click </strong><a href="https://www.moh.gov.sg/hpp/dentists/restricted-content" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><strong>.</strong>
 </p>
+<p></p>
+<h4><strong>Words from our team</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Spreading Smiles in Communities</div><div class="isomer-card-description">Dentists bring smiles, emphasizing preventive dentistry and adhering to guidelines for optimal oral health and patient satisfaction.</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Champions of Preventive Care</div>
+<div class="isomer-card-description">Dentists champion preventive care, strictly adhering to guidelines to
+ensure optimal oral health and patient satisfaction.</div>
+<div class="isomer-card-link"></div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Artistic Excellence in Dentistry</div><div class="isomer-card-description">Dentists combine health and beauty, showcasing aesthetic mastery while adhering to guidelines for patient satisfaction.</div><div class="isomer-card-link"> </div></div></a>
+</div>
+<p></p>

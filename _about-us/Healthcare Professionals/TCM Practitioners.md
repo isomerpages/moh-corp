@@ -38,3 +38,6 @@ criteria before they are allowed to be sold in Singapore.</p>
 </ul>
 <p><strong>For internal guidelines, click </strong><a href="https://www.moh.gov.sg/hpp/dentists/restricted-content" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><strong>.</strong>
 </p>
+<p></p>
+<h4><strong>Words From Our Team</strong></h4>
+<p></p>

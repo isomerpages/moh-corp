@@ -40,7 +40,7 @@ criteria before they are allowed to be sold in Singapore.</p>
 </p>
 <p></p>
 <h4><strong>Words From Our Team</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TCM1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Integrating Wisdom for Harmony</div><div class="isomer-card-description">As Traditional Chinese Medicine Practitioners, we integrate ancient wisdom for harmony in healthcare, strictly adhering to guidelines for cultural health and well-being. — Jayme Woo, XXXX</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TCM1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Integrating Wisdom for Harmony</div><div class="isomer-card-description">As Traditional Chinese Medicine Practitioners, we integrate ancient wisdom for harmony in healthcare, strictly adhering to guidelines for cultural health and well-being. — Jayme Woo, XXXX</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -54,6 +54,6 @@ traditional practices with contemporary well-being, ensuring cultural health
 is preserved. — Tan Zhi Ming, XXXX</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TCM2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Contributing to TCM Education</div><div class="isomer-card-description">As TCM Practitioners, we contribute to education, preserving Chinese medicine, strictly following guidelines to pass on the rich heritage. — Kai Xin Lee, XXXX</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TCM2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Contributing to TCM Education</div><div class="isomer-card-description">As TCM Practitioners, we contribute to education, preserving Chinese medicine, strictly following guidelines to pass on the rich heritage. — Kai Xin Lee, XXXX</div><div class="isomer-card-link"></div></div></a>
 </div>
 <p></p>

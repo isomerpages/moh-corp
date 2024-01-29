@@ -4,13 +4,13 @@ permalink: /join-us/join-us/
 variant: tiptap
 description: Join the Ministry of Health Singapore
 ---
-<h1>Let's build a strong and healthy nation</h1>
+<h1><strong>Let's build a strong and healthy nation</strong></h1>
 <p>Join us in our journey to improve health and lives.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/healthcare_workers.jpg">
 </div>
-<h4>We are united by the mission to improve everyone's lives</h4>
+<h2><strong>We are united by the mission to improve everyone's lives</strong></h2>
 <p>There's no career more rewarding than contributing to the health of a
 nation. We are looking for passionate people to join us in promoting good
 health, ensuring access to affordable healthcare, and pursuit of medical
@@ -18,7 +18,7 @@ excellence.</p>
 <p><a href="https://staging.dqk98e0b1u3ow.amplifyapp.com/join-us/jobs-careers/" rel="noopener noreferrer nofollow" target="_blank">Join us</a>
 </p>
 <p></p>
-<h4>Opportunities</h4>
+<h4><strong>Opportunities</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/collaborative_process_multicultural_businesspeople_using_laptop_presentation_communication_meeting_brainstorming_ideas.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jobs and Careers</div><div class="isomer-card-description">Find your choice of career under three schemes of service and look forward to greater exposure to various functions of MOH as part of your career development.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://staging.dqk98e0b1u3ow.amplifyapp.com/about-us/join-us/scholarships/" class="isomer-card">
 <div class="isomer-card-image">
@@ -35,7 +35,7 @@ headstart in your future career with an MOH internship placement.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/group_young_volunteers_standing_big_table_charity_center_office_keeping_records_donated_clothes_food_water.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Volunteer with Us</div><div class="isomer-card-description">Healthcare volunteers serve alongside our healthcare workforce to enhance the resilience of Singapore’s healthcare system.</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <hr>
-<h4>Words from our team</h4>
+<h4><strong>Words from our team</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="isomer.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Office worker" src="/images/young_asian_business_woman_student_working_online_computer_laptop.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">"Understanding supervisors"</div><div class="isomer-card-description">Everyone is supportive of flexi-work arrangements at MOH. — Audrey Tham, System Design &amp; Governance</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="isomer.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
@@ -51,7 +51,7 @@ and supportive when I need assistance. — Derek Tan, Healthcare Regulation</div
 </div>
 </a><a rel="noopener noreferrer nofollow" href="isomer.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Businessman" src="/images/cheerful_businessman.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">"Rewarding and humbling"</div><div class="isomer-card-description">I conduct psychological intake assessments for new admissions at MOH. Meeting people from such diverse backgrounds who share a common passion for helping people has been truly rewarding. — Shazli, National Health Service Planning</div><div class="isomer-card-link"></div></div></a>
 </div>
-<h4>What it's like at MOH</h4>
+<h4><strong>What it's like at MOH</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/muslim_business_woman_with_arms_raised_sitting_chair_office_desk_celebrating_victory_goal.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Clear career path</div><div class="isomer-card-description">We believe in supporting lifelong employability for each individual.</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">

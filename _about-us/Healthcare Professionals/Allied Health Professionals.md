@@ -38,3 +38,20 @@ the regulated guidelines to help your healthcare practices succeed.</p>
 <p><strong>For internal guidelines, click </strong><a href="https://www.moh.gov.sg/hpp/dentists/restricted-content" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>
 </p>
 <p></p>
+<h4><strong>Words From Our Team</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Teammwork Triumphs</div><div class="isomer-card-description">Collaborative spirit shines as Allied Healthcare Professionals work together to develop interdisciplinary solutions at MOH.</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Guidelines for Excellence</div>
+<div class="isomer-card-description">Allied Healthcare Professionals should always strictly adhere to guidelines,
+ensuring standardised care and patient safety</div>
+<div class="isomer-card-link"></div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Innovation in Care</div><div class="isomer-card-description">Allied Healthcare Partners are equipped with pioneering cutting-edge techniques, elevating healthcare standards for all.</div><div class="isomer-card-link"> </div></div></a>
+</div>
+<p></p>

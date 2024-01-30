@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Getting medical help</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/doctor_take_care_support_woman_patient_sitting_wheelchair_health_care_insurance_concept.jpg">
+</div>
 <p>Accessing timely and appropriate medical help is a fundamental aspect
 of maintaining good health. Whether it's for routine check-ups, managing
 chronic conditions, or addressing sudden health concerns, understanding

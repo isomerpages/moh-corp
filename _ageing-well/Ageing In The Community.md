@@ -52,8 +52,7 @@ play a role in causing the health of seniors to deteriorate and frailty
 to set in quicker.</p>
 <p>Seniors who age well in the community can lower their risk of social isolation,
 and prevent deterioration of health.</p>
-<p>
-<br>If you're experiencing frailty as you get older, it means you're more
+<p>If you're experiencing frailty as you get older, it means you're more
 vulnerable and less resilient. Everyday activities might become a bit tougher,
 and there's a higher risk of health issues. Recognising and addressing
 frailty is key to boosting your well-being and quality of life with the

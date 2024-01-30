@@ -26,8 +26,10 @@ in activities, stay connected with others, make the most of each day.</p>
 <p>Staying active not only boosts your well-being but also helps maintain
 your independence and sense of purpose. It helps you stay strong, bounce
 back from challenges, and stay connected to the things you enjoy and love.</p>
-<h4>Active Ageing Centres</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/aacgowhere" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/AAC.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Active Ageing Centres</div><div class="isomer-card-description">Engage in activities, communal meals, and foster social interactions to reduce social isolation.</div><div class="isomer-card-link">Locate the AAC nearest to you.</div></div></a>
+<hr>
+<h3><strong>Active Ageing Centres</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/old_elderly_asian_woman_exercise_backyard_with_her_daughter_min.jpg">
 </div>
 <p>AACs are suitable for all seniors who would like to remain physically,
 mentally and socially active. They offer a range of activities and programmes

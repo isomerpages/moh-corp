@@ -31,10 +31,19 @@ back from challenges, and stay connected to the things you enjoy and love.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/old_elderly_asian_woman_exercise_backyard_with_her_daughter_min.jpg">
 </div>
+<p>An Active Ageing Centre (AAC) is a drop-in social recreational centre
+that extends support to seniors living nearby in the community. It is a
+go-to point for seniors to have the opportunity to build strong social
+connections, take part in recreational activities, and contribute to the
+community as they wish.</p>
 <p>AACs are suitable for all seniors who would like to remain physically,
-mentally and socially active. They offer a range of activities and programmes
-for seniors with varied interests and abilities.</p>
-<p></p>
+mentally and socially active, offering a range of activities, programmes,
+and services for seniors with varied interests and abilities, such as day
+care and community rehabilitation.</p>
+<p>Centres also welcome seniors who would like to volunteer at the centre,
+such as helping out with centre activities, visiting lonely seniors or
+running errands for seniors.</p>
+<p>Locate a centre closest to you <a href="https://go.gov.sg/aacgowhere" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <h3><strong>Preventing frailty</strong></h3>
 <div class="isomer-image-wrapper">

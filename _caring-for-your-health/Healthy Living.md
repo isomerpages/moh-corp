@@ -35,7 +35,7 @@ to identify and address potential health issues before they become serious.</p>
 and others from preventable diseases.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.activesgcircle.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="." src="/images/ActiveSGCropped.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Get Active</div><div class="isomer-card-description">ActiveSG is an all-emcompassing and inclusive national movement for sport, brought to you by Sport Singapore.</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.activesgcircle.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="." src="/images/ActiveSGCropped.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Get active</div><div class="isomer-card-description">Being physically active can improve your health, reduce the risk of disease, and improve your ability to do everyday activities.</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <h4><strong>Staying informed</strong></h4>
 <p>Being aware of your health condition and finding out about different health

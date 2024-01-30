@@ -57,23 +57,25 @@ treatments.&nbsp;</p>
 <hr>
 <p><strong>Subsidies For Specialist Outpatient Clinic Care at Public Healthcare Institutions</strong>
 </p>
-<p>Subsidy by Ministry of Health to ensure that patients have access to affordable
-care.</p>
+<p>Subsidies for Specialist Outpatient Clinic (SOC) care at Public Healthcare
+Institutions to ensure that patients have access to more affordable care.</p>
 <p><a href="https://www.moh.gov.sg/healthcare-schemes-subsidies/subsidies-for-specialist-outpatient-care-at-public-healthcare-institutions" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 <hr>
 <p><strong>Pioneer Generation Package</strong>
 </p>
-<p>Includes a host of initiatives aimed at making healthcare affordable for
-our pioneer generation for life.</p>
+<p>The Pioneer Generation Package honours and thanks&nbsp;our pioneers for
+their hard work and dedication in making Singapore what it is today. It
+includes a host of initiatives aimed at making healthcare affordable for
+our Pioneer Generation for life.</p>
 <p><a href="https://www.moh.gov.sg/healthcare-schemes-subsidies/pioneer-generation-package" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 <hr>
 <p><strong>Merdeka Generation Package</strong>
 </p>
-<p>This package supports the aspirations of Merdeka Generation seniors in
-their silver years by providing them better peace of mind over future healthcare
-costs.</p>
+<p>The Merdeka Generation Package supports the aspirations of Merdeka Generation
+seniors in their silver years by helping them to stay active and healthy
+and providing them better peace of mind over future healthcare costs.</p>
 <p><a href="https://www.moh.gov.sg/healthcare-schemes-subsidies/merdeka-generation-package" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 <hr>

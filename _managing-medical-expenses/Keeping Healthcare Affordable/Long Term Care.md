@@ -13,9 +13,8 @@ needs.</p>
 </div>
 <p><strong>CareShield Life</strong>
 </p>
-<p>CareShield Life is a long-term care insurance. You can benefit from monthly
-cash payouts as long as you are unable to do 3 or more Activities of Daily
-Living (ADLs).</p>
+<p>CareShield Life is a long-term care insurance scheme. It offers financial
+support and monthly cash payouts, should you develop severe disability.</p>
 <p><a href="https://www.cpf.gov.sg/member/healthcare-financing" rel="noopener noreferrer nofollow" target="_blank"><u>Read more</u></a>
 </p>
 <hr>

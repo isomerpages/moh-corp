@@ -105,7 +105,7 @@ of your nursing career.</p>
 </p>
 <p></p>
 <h4><strong>Words From Our Team</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/nurse2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Championing Patient Advocacy</div><div class="isomer-card-description">As nurses, we go the extra mile, ensuring patient voices are heard, needs are met, and guidelines are strictly followed. — Bhavin Kumar, XXXX</div><div class="isomer-card-link"></div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/nurse2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Championing Patient Advocacy</div><div class="isomer-card-description">As nurses, we go the extra mile, ensuring patient voices are heard, needs are met, and guidelines are strictly followed. — Bhavin Kumar, Senior Nurse Clinician</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -116,9 +116,9 @@ of your nursing career.</p>
 <div class="isomer-card-title">Guidelines for Compassionate Care</div>
 <div class="isomer-card-description">In our nursing roles, we prioritize mental health, strictly adhering to
 guidelines for compassionate care and patient well-being. — Janice Lee,
-XXXX</div>
+Nurse Educator</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/nurse3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Extending Care to Communities</div><div class="isomer-card-description">As nurses, we connect with communities, extending care beyond clinics, and strictly following guidelines for comprehensive and inclusive healthcare. — Muhammad Hafiz, XXXX</div><div class="isomer-card-link"></div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/nurse3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Extending Care to Communities</div><div class="isomer-card-description">As nurses, we connect with communities, extending care beyond clinics, and strictly following guidelines for comprehensive and inclusive healthcare. — Muhammad Hafiz, Advanced Practice Nurse</div><div class="isomer-card-link"> </div></div></a>
 </div>
 <p></p>

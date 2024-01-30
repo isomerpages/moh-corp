@@ -15,7 +15,7 @@ technologies, and create a welcoming environment for your patients.</p>
 <p>Regularly seek feedback, actively engage in the community, and adhere
 to compliance standards to contribute to the overall success of your dental
 practice.</p>
-<h2><strong>Guidelines</strong></h2>
+<h3><strong>Guidelines</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.moh.gov.sg/hpp/all-healthcare-professionals/guidelines/GuidelineDetails/collaborative-prescribing" class="guidelineLink" rel="noopener noreferrer nofollow" target="_blank"><u>Collaborative Prescribing (22 Jan 2024)</u></a>

@@ -17,7 +17,7 @@ modern technologies, and creating a supportive environment for your customers.</
 <p>Regularly seek feedback, actively participate in the pharmacy community,
 and adhere to industry standards to contribute to the overall success of
 your pharmacy practice.</p>
-<h2><strong>Guidelines</strong></h2>
+<h3><strong>Guidelines</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.moh.gov.sg/hpp/pharmacists/guidelines/GuidelineDetails/collaborative-prescribing" class="guidelineLink" rel="noopener noreferrer nofollow" target="_blank">Collaborative Prescribing (22 Jan 2024)</a>
@@ -72,7 +72,7 @@ your pharmacy practice.</p>
 </p>
 <p></p>
 <h4><strong>Words From Our Team</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pharma1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Promoting Medication Safety</div><div class="isomer-card-description">As pharmacists, we spearhead campaigns for responsible medication use, ensuring public well-being by strictly adhering to established guidelines. — Russell Lee, XXXX</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pharma1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Promoting Medication Safety</div><div class="isomer-card-description">As pharmacists, we spearhead campaigns for responsible medication use, ensuring public well-being by strictly adhering to established guidelines. — Russell Lee, Pharmaceutical Researcher</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -83,9 +83,9 @@ your pharmacy practice.</p>
 <div class="isomer-card-title">Guiding Responsible Medication Use</div>
 <div class="isomer-card-description">In our roles as pharmacists, we actively engage in public health forums,
 educating communities on medication use while strictly adhering to established
-guidelines. — Karen Foo, XXXX</div>
+guidelines. — Karen Foo, Community Pharmacist</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pharma3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ensuring Safe Medication Management</div><div class="isomer-card-description">As pharmacists, we contribute expertise, ensuring effective and safe medication management by following established protocols and guidelines. — Brandon Lai, XXXX</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pharma3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ensuring Safe Medication Management</div><div class="isomer-card-description">As pharmacists, we contribute expertise, ensuring effective and safe medication management by following established protocols and guidelines. — Brandon Lai, Regulatory Pharmacist</div><div class="isomer-card-link"> </div></div></a>
 </div>
 <p></p>

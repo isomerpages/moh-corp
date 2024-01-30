@@ -37,9 +37,9 @@ go-to point for seniors to have the opportunity to build strong social
 connections, take part in recreational activities, and contribute to the
 community as they wish.</p>
 <p>AACs are suitable for all seniors who would like to remain physically,
-mentally and socially active, offering a range of activities, programmes,
-and services for seniors with varied interests and abilities, such as day
-care and community rehabilitation.</p>
+mentally and socially active. They offer a range of activities, programmes,
+and services for seniors with varied interests, abilities, and needs such
+as day care and community rehabilitation.</p>
 <p>Centres also welcome seniors who would like to volunteer at the centre,
 such as helping out with centre activities, visiting lonely seniors or
 running errands for seniors.</p>

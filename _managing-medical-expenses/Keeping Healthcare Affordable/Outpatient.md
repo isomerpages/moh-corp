@@ -57,8 +57,8 @@ treatments.&nbsp;</p>
 <hr>
 <p><strong>Subsidies For Specialist Outpatient Clinic Care at Public Healthcare Institutions</strong>
 </p>
-<p>Subsidies for Specialist Outpatient Clinic (SOC) care at Public Healthcare
-Institutions to ensure that patients have access to more affordable care.</p>
+<p>There are subsidies available at specialised outpatient clinics to ensure
+patients have access to better affordable care.</p>
 <p><a href="https://www.moh.gov.sg/healthcare-schemes-subsidies/subsidies-for-specialist-outpatient-care-at-public-healthcare-institutions" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 <hr>

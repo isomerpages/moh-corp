@@ -67,6 +67,6 @@ patient care while upholding ethical principles in medical practice. —
 Collin Chong, Hand Surgeon</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/doc2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Leading in Medical Research</div><div class="isomer-card-description">In our capacity as doctors, we lead in research, advancing medical knowledge, and improving patient outcomes while adhering to rigorous guidelines. — Razakjr Omar, Neurosurgeon</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/doc2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Leading in Medical Research</div><div class="isomer-card-description">In our capacity as doctors, we lead in research, advancing medical knowledge, and improving patient outcomes while adhering to rigorous guidelines. — Razakjr Omar, Cardiologist (Heart Specialist)</div><div class="isomer-card-link"> </div></div></a>
 </div>
 <p></p>

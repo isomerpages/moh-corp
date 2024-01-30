@@ -35,6 +35,6 @@ bills and selected costly outpatient treatments.</div>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d35ch1v17vfdeg.amplifyapp.com/managing-medical-expenses/schemes-and-subsidies/alloptions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/hospital_bills.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subsidies</div><div class="isomer-card-description">Apart from the 3Ms, there are many more healthcare financing schemes and subsidies that are available, click below to find out more.</div><div class="isomer-card-link">View all schemes and subsidies here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d35ch1v17vfdeg.amplifyapp.com/managing-medical-expenses/schemes-and-subsidies/alloptions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/hospital_bills.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subsidies</div><div class="isomer-card-description">There are also healthcare subsidies available to help you defray medical costs</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>

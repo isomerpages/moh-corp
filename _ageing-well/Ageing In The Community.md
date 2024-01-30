@@ -40,18 +40,13 @@ community as they wish.</p>
 mentally and socially active. They offer a range of activities, programmes,
 and services for seniors with varied interests, abilities, and needs such
 as day care and community rehabilitation.</p>
-<p>Centres also welcome seniors who would like to volunteer at the centre,
-such as helping out with centre activities, visiting lonely seniors or
-running errands for seniors.</p>
 <p>Locate a centre closest to you <a href="https://go.gov.sg/aacgowhere" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <h3><strong>Preventing frailty</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/help_care_asian_senior_elderly_old_lady_woman_use_walker_with_strong_health_while_walking_park_happy_fresh_holiday_min.jpg">
 </div>
-<p>Preventing frailty is all about staying active, eating well, and keeping
-your mind sharp.</p>
-<p>By embracing these habits, you'll boost your resilience and enjoy a more
-independent and vibrant life as you age!</p>
+<p>Seniors who age well in the community can lower their risk of social isolation
+and</p>
 <hr>
 <p></p>

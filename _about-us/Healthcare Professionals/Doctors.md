@@ -17,7 +17,7 @@ in promoting, preventing, and treating chronic oral diseases." - Prof Marcus
 Tan Peres, Globics Consortium</p>
 </blockquote>
 <p></p>
-<h2><strong>Guidelines</strong></h2>
+<h3><strong>Guidelines</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.moh.gov.sg/hpp/all-healthcare-professionals/guidelines/GuidelineDetails/collaborative-prescribing" class="guidelineLink" rel="noopener noreferrer nofollow" target="_blank">Collaborative Prescribing (22 Jan 2024)</a>

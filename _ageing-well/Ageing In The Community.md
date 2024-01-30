@@ -46,7 +46,11 @@ as day care and community rehabilitation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/help_care_asian_senior_elderly_old_lady_woman_use_walker_with_strong_health_while_walking_park_happy_fresh_holiday_min.jpg">
 </div>
-<p>Seniors who age well in the community can lower their risk of social isolation
-and</p>
+<p>Seniors who age well in the community can lower their risk of social isolation,
+and prevent deterioration of health.</p>
+<p>As our population ages a, more seniors are projected to live alone. In
+particular, we need to pay close attention to the risk of social isolation,
+which will play a role in causing the health of seniors to deteriorate
+and frailty to set in quicker.</p>
 <hr>
 <p></p>

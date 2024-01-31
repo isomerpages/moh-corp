@@ -13,10 +13,10 @@ links:
   - title: Research
     url: /research
   - title: Others
-    url: " "
+    url: /
     sublinks:
       - title: FAQ
-        url: /faq/
+        url: https://ask.gov.sg/moh
       - title: Related Sites
         url: /related-sites
       - title: E-Services

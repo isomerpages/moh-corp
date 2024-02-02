@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Keeping Healthcare Affordable
 ---
-<h2><strong>Financial support for long-term care</strong></h2>
+<h2><strong>Support for long-term care</strong></h2>
 <p>Find out how these CPF schemes can help you finance your long-term care
 needs.</p>
 <div class="isomer-image-wrapper">

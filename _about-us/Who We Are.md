@@ -4,7 +4,7 @@ permalink: /about-us/who-we-are/
 variant: tiptap
 description: ""
 ---
-<h3><strong>About the Ministry of Health</strong></h3>
+<h2><strong>About the Ministry of Health</strong></h2>
 <p>Ministry of Health (MOH) is an innovative, people-centred organisation,
 committed to:</p>
 <ul>
@@ -23,7 +23,7 @@ to their needs.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>Providing affordable public healthcare</strong></h4>
+<h3><strong>Providing affordable public healthcare</strong></h3>
 <p>Through our ministry, the Singapore government manages the Public Healthcare
 System, which ensures that quality basic medical services are available
 and affordable to all Singaporeans.</p>
@@ -33,7 +33,7 @@ as well as helping people take responsibility for their health.</p>
 take charge of their own well-being, we ensure safety nets are in place,
 so that no Singaporean is denied access to healthcare, or turned away by
 public hospitals because of a lack of money.</p>
-<h4><strong>Distributing public healthcare across Singapore</strong></h4>
+<h3><strong>Distributing public healthcare across Singapore</strong></h3>
 <p>Public healthcare in Singapore is distributed across the island via the
 Public Healthcare Delivery System.
 <br>
@@ -51,7 +51,7 @@ delivery networks.</p>
 <p>Singapore Health Services (SingHealth)</p>
 </li>
 </ul>
-<h4><strong>3 main groups within MOH</strong></h4>
+<h3><strong>3 main groups within MOH</strong></h3>
 <p>The work we do at MOH is implemented through our 3 main groups:</p>
 <ul data-tight="true" class="tight">
 <li>

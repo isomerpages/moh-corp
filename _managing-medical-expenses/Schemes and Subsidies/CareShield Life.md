@@ -5,7 +5,7 @@ variant: tiptap
 description: Find out more about CareShield Life subsidies.
 third_nav_title: Schemes and Subsidies
 ---
-<h3><strong>What is CareShield Life?</strong></h3>
+<h2><strong>What is CareShield Life?</strong></h2>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kblBnfw0rek?si=iMOGDYksiQRN4bLS"></iframe>
 </div>
@@ -14,8 +14,7 @@ provides basic financial support should an insured develop severe disability,
 especially during old age, and need personal and medical care for a prolonged
 duration (i.e. long-term care).</p>
 <hr>
-<p><strong>Why do we need CareShield Life?</strong>
-</p>
+<h3><strong>Why do we need CareShield Life?</strong></h3>
 <p>1 in 2 healthy Singaporeans aged 65 could develop severe disability in
 their lifetime, and may need long-term care. Severe disability may arise
 due to a sudden disabling event (e.g. stroke and spinal cord injuries),

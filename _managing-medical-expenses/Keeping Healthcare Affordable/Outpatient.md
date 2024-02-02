@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Keeping Healthcare Affordable
 ---
-<h1><strong>Affordable outpatient treatment</strong></h1>
+<h2><strong>Affordable outpatient treatment</strong></h2>
 <p>Healthcare schemes help you pay for a range of outpatient treatments.</p>
 <p></p>
 <div class="isomer-image-wrapper">

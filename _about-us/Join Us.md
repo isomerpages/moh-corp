@@ -4,13 +4,13 @@ permalink: /join-us/join-us/
 variant: tiptap
 description: Join the Ministry of Health Singapore
 ---
-<h1><strong>Let's build a strong and healthy nation</strong></h1>
+<h2><strong>Let's build a strong and healthy nation</strong></h2>
 <p>Join us in our journey to improve health and lives.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/healthcare_workers.jpg">
 </div>
-<h2><strong>We are united by the mission to improve everyone's lives</strong></h2>
+<h3><strong>We are united by the mission to improve everyone's lives</strong></h3>
 <p>There's no career more rewarding than contributing to the health of a
 nation. We are looking for passionate people to join us in promoting good
 health, ensuring access to affordable healthcare, and pursuit of medical

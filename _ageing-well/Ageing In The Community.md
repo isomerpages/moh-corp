@@ -21,7 +21,7 @@ which is a key cause of frailty, and empower seniors to age actively.</p>
 <p>Active aging is about enjoying a better and longer quality of life! It
 goes beyond staying healthy. It's also about you staying engaged and enjoying
 every aspect of life; physically, socially, or mentally.</p>
-<p>Having an active ageing mindset means finding ways for yourself to participate
+<p>Having an active aging mindset means finding ways for yourself to participate
 in activities, stay connected with others, make the most of each day.</p>
 <p>Staying active not only boosts your well-being but also helps maintain
 your independence and sense of purpose. It helps you stay strong, bounce

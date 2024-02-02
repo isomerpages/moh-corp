@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Keeping Healthcare Affordable
 ---
-<h1><strong>Support for Caregivers</strong></h1>
+<h2><strong>Support for Caregivers</strong></h2>
 <p>Take better care of your loved one by tapping on resources for your training
 and financial needs.</p>
 <div class="isomer-image-wrapper">

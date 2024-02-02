@@ -35,7 +35,7 @@ the regulated guidelines to help your healthcare practices succeed.</p>
 </p>
 </li>
 </ul>
-<p><strong>For internal guidelines, click </strong><a href="https://www.moh.gov.sg/hpp/dentists/restricted-content" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>
+<p><strong>For internal guidelines, click </strong><a href="https://hpass.moh.gov.sg/dentist.do" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>
 </p>
 <p></p>
 <h4><strong>Words From Our Team</strong></h4>

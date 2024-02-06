@@ -7,8 +7,9 @@ third_nav_title: Healthcare Professionals
 ---
 <h2><strong>Allied Health Professionals</strong></h2>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/healthcare_workers.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ahp2.png">
 </div>
 <p>To build a successful path in allied healthcare, keep yourself updated
 with the newest advancements, use modern technology and make your workspace

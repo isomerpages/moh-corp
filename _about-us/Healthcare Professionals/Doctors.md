@@ -13,10 +13,18 @@ third_nav_title: Healthcare Professionals
 <blockquote>
 <p></p>
 <p>" We hope to work with health professionals to influence relevant transformation
-in promoting, preventing, and treating chronic oral diseases." - Prof Marcus
+in promoting, preventing, and treating chronic diseases." - Prof Marcus
 Tan Peres, Globics Consortium</p>
 </blockquote>
-<p></p>
+<p>An effective strategy for a doctor involves prioritizing patient-centered
+care and continual professional development. By placing patients at the
+forefront, doctors can ensure that their medical decisions and treatment
+plans are tailored to individual needs, preferences, and concerns.</p>
+<p>This entails fostering strong communication skills, actively involving
+patients in decision-making, and staying empathetic and compassionate throughout
+interactions. Concurrently, doctors should commit to ongoing education
+and growth, staying abreast of the latest medical advancements, research
+findings, and technological innovations.</p>
 <h3><strong>Guidelines</strong></h3>
 <ul data-tight="true" class="tight">
 <li>

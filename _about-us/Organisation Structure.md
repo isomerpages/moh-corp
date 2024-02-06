@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Senior Management Organisation Chart</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/senior_management_org_chart_2.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/org_chart.PNG">
 </div>
 <h3><strong>Our Groups</strong></h3>
 <ul data-tight="true" class="tight">
@@ -38,16 +38,26 @@ description: ""
 <p>Ageing Planning Office</p>
 </li>
 <li>
-<p>Communicable Diseases Group (CDG)</p>
+<p>Communicable Diseases Group</p>
 </li>
 <li>
-<p>Crisis Strategy and Operations Group (CSOG)</p>
+<p>Crisis Strategy and Operations Group</p>
 </li>
 <li>
-<p>Health Services Group (HSG)</p>
+<p>Health Services Group</p>
 </li>
 <li>
 <p>Planning Group</p>
+</li>
+</ul>
+<p><strong>Development Pillar</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Corporate Group</p>
+</li>
+<li>
+<p>Infocomm, Technology and Data Group</p>
 </li>
 </ul>
 <p></p>

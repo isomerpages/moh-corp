@@ -18,7 +18,7 @@ description: ""
 protecting and advancing national health and safety.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.healthprofessionals.gov.sg/snb" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="." src="/images/Untitled_design__2_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Singapore Nursing Board</div><div class="isomer-card-description">The Singapore Nursing Board (SNB) protects the public through licensure and regualtion of nursing / midwifery education and practice.</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.healthprofessionals.gov.sg/sdc" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="." src="/images/2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Singapore Dental Council</div><div class="isomer-card-description">The Singapore Dental Council (SDC) regulates the dental professions, promotes high standards of oral health and supports the dental professional in Singapore.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.healthprofessionals.gov.sg/smc" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -31,7 +31,7 @@ protecting and advancing national health and safety.</div>
 regulates the professional conduct and ethics of medical practitioners.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.healthprofessionals.gov.sg/sdc" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="." src="/images/2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Singapore Dental Council</div><div class="isomer-card-description">The Singapore Dental Council (SDC) regulates the dental professions, promotes high standards of oral health and supports the dental professional in Singapore.</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.healthprofessionals.gov.sg/snb" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="." src="/images/Untitled_design__2_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Singapore Nursing Board</div><div class="isomer-card-description">The Singapore Nursing Board (SNB) protects the public through licensure and regualtion of nursing / midwifery education and practice.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.healthprofessionals.gov.sg/spc" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

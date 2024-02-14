@@ -47,6 +47,34 @@ conduct and ethics of registered pharmacists.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.healthprofessionals.gov.sg/tcmpb/en" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="." src="/images/Untitled_design__3_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Traditional Chinese Medicine Practitioners Board</div><div class="isomer-card-description">The Traditional Chinese Medicine Practitioners Board (TCMPB) regulates the professional ethics and conduct of registered TCM practitioners.</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
+<h3><strong>Agencies</strong></h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Agency For Integrated Care</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MOH Office For Healthcare Transformation</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Synapxe Pte Ltd</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MOH Holdings</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
 <h3><strong>Singapore's Healthcare Clusters</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="360" width="624" src="https://lh7-us.googleusercontent.com/uNsyLRfVISw3N-UUmWoj5pxFh2rlJZF_6jALC74sWW7HyNUfniq3uKR4JGkQvDCnYMa-aIpIe11T7dxH3Wq9tD4p5pJrYNqWxClWGbP7YgG-KfdB6OBIuUpbWUibf3qiH2Rt1MGGeDRu1T7-UzrpjpI">

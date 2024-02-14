@@ -2,8 +2,8 @@ collections:
   caring-for-your-health:
     output: true
     order:
-      - Health conditions.md
       - Healthy Living.md
+      - Health conditions.md
       - Getting Medical Help.md
       - Find a Medical Facility.md
       - Advanced Care Planning.md

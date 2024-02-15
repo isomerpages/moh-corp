@@ -30,7 +30,7 @@ in making a referral to an appropriate palliative care service. Learn more
 <a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <hr>
-<h4><strong>Advanced Care Planning </strong></h4>
+<h4><strong>Advanced Care Planning</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/diverse_male_doctor_senior_male_patient_sitting_bed_discussing_home_medical_services_check_up_home_visit_healthcare_wellbeing_senior_lifestyle_unaltered_min.jpg">

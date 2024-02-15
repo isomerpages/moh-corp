@@ -33,11 +33,11 @@ sections:
       id: infopic
       description: Our National Mental Health and Well-being Strategy aims to bring
         mental health care to the community, readily supporting those who need
-        help without stigma.
+        help and without stigma.
       button: read more
       url: https://www.moh.gov.sg/news-highlights/details/launch-of-national-mental-health-and-well-being-strategy
       alt: Image alt text
-      image: /images/two_asian_women_chatting_by_window.jpg
+      image: /images/women_asian_patients_with_man_psychologist_examination_consulting.jpg
       subtitle: A nationwide effort
   - resources:
       title: Newsroom

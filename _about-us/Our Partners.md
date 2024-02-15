@@ -79,15 +79,9 @@ conduct and ethics of registered pharmacists.</div>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="360" width="624" src="https://lh7-us.googleusercontent.com/uNsyLRfVISw3N-UUmWoj5pxFh2rlJZF_6jALC74sWW7HyNUfniq3uKR4JGkQvDCnYMa-aIpIe11T7dxH3Wq9tD4p5pJrYNqWxClWGbP7YgG-KfdB6OBIuUpbWUibf3qiH2Rt1MGGeDRu1T7-UzrpjpI">
 </div>
-<p>The Ministry of Health has reorganised the public healthcare system into
-three integrated clusters: <strong>Central</strong>, <strong>Eastern</strong>,
-and <strong>Western </strong>regions. These clusters, formed by merging
-existing healthcare institutions, aim to create a more efficient and patient-centric
-system by featuring a broader range of facilities, capabilities, and services
-across different care settings. This aim of this move is to evolve our
-healthcare system to meet the future healthcare shaped by an aging population
-and a growing burden of chronic diseases.</p>
-<p>The three healthcare clusters are:</p>
+<p>Public healthcare in Singapore is distributed across the island via the
+Public Healthcare Delivery System. The system is geographically structured,
+and managed by the following 3 healthcare clusters:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Central</strong>  <strong>Region</strong>: <a href="https://corp.nhg.com.sg/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">National Healthcare Group (NHG)</a>

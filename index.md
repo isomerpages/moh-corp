@@ -29,15 +29,15 @@ sections:
       alignment: right
       subtitle: Better Health, Better Care, Better Life
   - infopic:
-      title: Opening minds about mental heath
+      title: Supporting the mental health of all Singaporeans
       id: infopic
-      description: Our National Mental Health and Well-being Strategy aims to bring
-        mental health care to the community, readily supporting those who need
-        help and without stigma.
+      description: The National Mental Health and Well-being Strategy aims to create
+        an effective mental health ecosystem comprising accessible and good
+        quality clinical care.
       button: read more
       url: https://www.moh.gov.sg/news-highlights/details/launch-of-national-mental-health-and-well-being-strategy
       alt: Image alt text
-      image: /images/women_asian_patients_with_man_psychologist_examination_consulting.jpg
+      image: /images/groups_people_gathered_conference_room_they_were_having_brainstorming_meeting_planning_meetings_manage_company_s_growth_profit_management_concept_from_new_generation.jpg
       subtitle: A nationwide effort
   - resources:
       title: Newsroom

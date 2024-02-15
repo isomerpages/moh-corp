@@ -22,7 +22,7 @@ sections:
           url: /caring-for-your-health/health-conditions
         - title: Healthcare Affordability
           description: ""
-          url: /managing-medical-expenses/schemes-and-subsidies/alloptions/
+          url: /managing-medical-expenses/schemes-and-subsidies/managing-medical-expenses/
       variant: image
       backgroundColor: gray
       size: md

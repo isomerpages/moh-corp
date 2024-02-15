@@ -15,17 +15,17 @@ contacts:
   - content:
       - phone: 1800 333 9999
       - email: ""
-      - other: ""
+      - other: "Monday to Friday: 8.30am to 6.00pm "
     title: MOH Covid-19 Enquiries
   - content:
       - phone: +65 6325 9220
       - email: ""
-      - other: ""
+      - other: "Monday to Friday: 8.30am to 6.00pm"
     title: MOH General Line
   - content:
       - phone: 1800 225 4122
       - email: ""
-      - other: ""
+      - other: "Monday to Friday: 8.30am to 6.00pm"
     title: Service / Feedback Hotline
-feedback: ""
+feedback: /feedback/
 ---

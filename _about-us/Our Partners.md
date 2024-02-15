@@ -49,7 +49,7 @@ conduct and ethics of registered pharmacists.</div>
 <p></p>
 <h2><strong>Agencies / Offices / Holdings</strong></h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.aic.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/aiclogo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Agency For Integrated Care</div><div class="isomer-card-description">AIC aims to create a vibrant care community for our people to live well and age gracefully. AIC coordinates and supports efforts in integrating care to achieve the best care outcomes for everyone. </div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.aic.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/aiclogo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Agency For Integrated Care</div><div class="isomer-card-description">AIC aims to create a vibrant care community for our people to live well and age gracefully. AIC coordinates and supports efforts in integrating care to achieve the best care outcomes for everyone.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.mohh.com.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

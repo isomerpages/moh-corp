@@ -10,11 +10,13 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nurses.jpg">
 </div>
 <p>
-<br>Nursing is a highly-skilled and well-rounded profession with diverse responsibilities
-like performing clinical procedures, and assessing a patient's physical
-and mental wellness.</p>
-<p>Nurses work in different healthcare settings which include polyclinics,
-general hospitals, community hospitals and nursing homes.</p>
+<br>A nurse is a highly-skilled healthcare professional with diverse responsibilities
+like performing clinical procedures, administering medications, patient
+education, and assessing a patient's physical and mental wellness.</p>
+<p>They work closely with doctors and other healthcare professionals to ensure
+comprehensive and compassionate care is provided. Nurses contribute significantly
+to the overall well-being of patients in various healthcare settings, including
+hospitals, clinics, and community settings.</p>
 <p></p>
 <h3><strong>Guidelines</strong></h3>
 <ul data-tight="true" class="tight">

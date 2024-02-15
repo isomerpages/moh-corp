@@ -8,12 +8,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dentist.png">
 </div>
-<p>To develop a successful strategy for your dental practice, make it a priority
-to stay updated on the latest advancements in the field, integrate modern
-technologies, and create a welcoming environment for your patients.</p>
-<p>Regularly seek feedback, actively engage in the community, and adhere
-to compliance standards to contribute to the overall success of your dental
-practice.</p>
+<p>Dentists are healthcare professionals specialising in oral health. They
+diagnose, and treat issues like cavities and gum diseases.</p>
+<p>Dentists also provide preventive care, including regular check-ups, cleanings,
+and advice on maintaining good oral hygiene. Regular visits to the dentist
+are crucial in ensuring overall dental health.</p>
 <h3><strong>Guidelines</strong></h3>
 <ul data-tight="true" class="tight">
 <li>

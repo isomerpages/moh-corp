@@ -13,7 +13,7 @@ links:
   - title: Research
     url: /research
   - title: Others
-    url: /public-consultations
+    url: /
     sublinks:
       - title: FAQ
         url: https://ask.gov.sg/moh
@@ -27,3 +27,5 @@ links:
         url: /forms
       - title: Professional Guidelines
         url: /professional-guidelines/alliedhealth
+      - title: Public Consultations
+        url: /public-consultations

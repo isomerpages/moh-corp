@@ -9,21 +9,15 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/confident_middle_aged_asian_male_dentist_posing_clinic.jpg">
 </div>
-<blockquote>
-<p></p>
-<p>" We hope to work with health professionals to influence relevant transformation
-in promoting, preventing, and treating chronic diseases." - Prof Marcus
-Tan Peres, Globics Consortium</p>
-</blockquote>
-<p>An effective strategy for a doctor involves prioritizing patient-centered
-care and continual professional development. By placing patients at the
-forefront, doctors can ensure that their medical decisions and treatment
-plans are tailored to individual needs, preferences, and concerns.</p>
-<p>This entails fostering strong communication skills, actively involving
-patients in decision-making, and staying empathetic and compassionate throughout
-interactions. Concurrently, doctors should commit to ongoing education
-and growth, staying abreast of the latest medical advancements, research
-findings, and technological innovations.</p>
+<p>Doctors are highly trained and qualified medical professionals who diagnose,
+treat, and provide care for individuals with various health conditions.
+Doctors undergo extensive education and training to acquire the knowledge
+and skills necessary for understanding, preventing, and managing illnesses.
+They may specialise in specific medical fields such as internal medicine,
+surgery, or paediatrics.</p>
+<p>Doctors play a pivotal role in healthcare, offering expertise in diagnosing
+ailments, prescribing treatments, and advising on the overall well-being
+of their patients.</p>
 <h3><strong>Guidelines</strong></h3>
 <ul data-tight="true" class="tight">
 <li>

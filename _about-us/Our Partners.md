@@ -49,7 +49,7 @@ conduct and ethics of registered pharmacists.</div>
 <p></p>
 <h2><strong>Agencies / Offices / Holdings</strong></h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.aic.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/aiclogo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Agency For Integrated Care</div><div class="isomer-card-description">AIC aims to create a vibrant care community for our people to live well and age gracefully. AIC coordinates and supports efforts in integrating care to achieve the best care outcomes for our clients.</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.aic.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/aiclogo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Agency For Integrated Care</div><div class="isomer-card-description">AIC aims to create a vibrant care community for our people to live well and age gracefully. AIC coordinates and supports efforts in integrating care to achieve the best care outcomes for everyone. </div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.mohh.com.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -63,7 +63,7 @@ clusters – National University Health System, National Healthcare Group
 and Singapore Health Services.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://moht.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/synapxelogo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOH Office For Healthcare Transformation</div><div class="isomer-card-description">MOHT focuses on a number of longer-term areas with the potential to contribute to fundamental changes in the way we promote health and deliver care.</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://moht.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/synapxelogo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOH Office For Healthcare Transformation</div><div class="isomer-card-description">MOHT is an innovation office established by MOH in 2018 to lead, facilitate and accelerate system-level changes needed to transform healthcare delivery.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.synapxe.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -72,10 +72,9 @@ and Singapore Health Services.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Synapxe Pte Ltd</div>
-<div class="isomer-card-description">Synapxe is the national HealthTech agency inspiring tomorrow’s health.
-The nexus of HealthTech, we connect people and systems to power a healthier
-Singapore. Together with partners, we create intelligent technological
-solutions to improve the health of millions of people every day, everywhere.</div>
+<div class="isomer-card-description">Synapxe is Singapore's HealthTech calalyst, connecting people and systems
+to drive a healthier nation. Collaborating with partners, they craft intelligent
+solutions to enhance the well-being of millions daily.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a>

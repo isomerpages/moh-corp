@@ -33,11 +33,12 @@ in making a referral to an appropriate palliative care service. Learn more
 <h4><strong>Advanced Care Planning</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/diverse_male_doctor_senior_male_patient_sitting_bed_discussing_home_medical_services_check_up_home_visit_healthcare_wellbeing_senior_lifestyle_unaltered_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/grandparent_girl_smile_with_love_support_care_senior_man_child_home_living_room_retirement_elderly_grandfather_with_kid_happiness_together_house_feeling_relax_min.jpg">
 </div>
-<p>Have you ever thought about how you would like to be cared for when you
-are in your older years, or considered your preferred treatment options
-in the event that you are in a medical crisis and unable to communicate
-your thoughts?&nbsp;</p>
-<p>Take charge of your own care in your elder years with <a href="https://staging-lite.d35ch1v17vfdeg.amplifyapp.com/caring-for-your-health/advanced-care/" rel="noopener noreferrer nofollow" target="_blank">Advance Care Planning.</a>
+<p>Planning ahead can help you receive the care you want, and it can also
+make things easier for your family when you are nearing the end of life.</p>
+<p>These might not be easy topics to think about. But planning doesn't have
+to be stressful or difficult, there's no need to do everything all at once.
+Take the time to discover and document your wishes.</p>
+<p>Learn more about Advanced Care Planning <a href="https://staging-lite.d35ch1v17vfdeg.amplifyapp.com/caring-for-your-health/advanced-care/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>

@@ -2,4 +2,5 @@ collections:
   research:
     output: true
     order:
+      - Research Grants.md
       - Reports and Data.md

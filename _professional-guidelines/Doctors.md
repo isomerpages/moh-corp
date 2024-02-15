@@ -11,12 +11,12 @@ description: ""
 </div>
 <p>Doctors are highly trained and qualified medical professionals who diagnose,
 treat, and provide care for individuals with various health conditions.
-They undergo extensive education and training to acquire the knowledge
-and skills necessary for understanding, preventing, and managing illnesses.</p>
+They undergo extensive education and training to acquire the expertise
+needed to understand and address illnesses.</p>
 <p>Doctors may also specialise in specific medical fields such as internal
-medicine, surgery, or paediatrics. They play a pivotal role in healthcare,
-offering expertise in diagnosing ailments, prescribing treatments, and
-advising on the overall well-being of their patients.</p>
+medicine, surgery, or paediatrics. They play a crucial role in keeping
+people healthy by offering advice, diagnosing ailments, prescribing treatments,
+and caring for patients.</p>
 <h3><strong>Guidelines</strong></h3>
 <ul data-tight="true" class="tight">
 <li>

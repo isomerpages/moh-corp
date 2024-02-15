@@ -4,3 +4,4 @@ permalink: /research/reports-data/
 variant: tiptap
 description: ""
 ---
+<p></p>

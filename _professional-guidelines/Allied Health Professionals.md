@@ -10,12 +10,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ahp2.png">
 </div>
-<p>To build a successful path in allied healthcare, keep yourself updated
-with the newest advancements, use modern technology and make your workspace
-friendly for patients.</p>
-<p>We can also ask for feedback often, be part of the community and follow
-the regulated guidelines to help your healthcare practices succeed.</p>
-<p></p>
+<p>Allied health professionals (AHPs) are an integral part of Singapore’s
+healthcare system. They specialise in diverse roles like physical therapy,
+nutrition, or radiography.</p>
+<p>AHPs work alongside doctors and nurses to provide comprehensive care,
+focusing on things like rehabilitation and preventive measures.</p>
 <h3><strong>Guidelines</strong></h3>
 <ul data-tight="true" class="tight">
 <li>

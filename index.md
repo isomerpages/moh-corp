@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Ministry of Health
-      background: /images/MOH_Website_Banner.png
+      background: /images/Mock_Website_Banner.png
       url: /contact-us/
       key_highlights:
         - title: Healthier SG

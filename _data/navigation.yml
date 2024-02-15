@@ -11,7 +11,7 @@ links:
   - title: Newsroom
     resource_room: true
   - title: Research
-    url: /research
+    collection: research
   - title: Others
     url: /
     sublinks:

@@ -28,6 +28,15 @@ sections:
       size: md
       alignment: right
       subtitle: Better Health, Better Care, Better Life
+  - infopic:
+      title: Opening minds about mental heath
+      id: infopic
+      description: Mental well-being is part of our overall health. Yet, it is often
+        misunderstood.
+      button: read more
+      url: /
+      alt: Image alt text
+      image: /images/two_asian_women_chatting_by_window.jpg
   - resources:
       title: Newsroom
       subtitle: Keep up with the latest news
@@ -60,13 +69,4 @@ sections:
             disability.
           linktext: Read more
           url: ""
-  - infopic:
-      title: Opening minds about mental heath
-      id: infopic
-      description: Mental well-being is part of our overall health. Yet, it is often
-        misunderstood.
-      button: read more
-      url: /
-      alt: Image alt text
-      image: /images/two_asian_women_chatting_by_window.jpg
 ---

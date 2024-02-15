@@ -34,7 +34,7 @@ headstart in your future career with an MOH internship placement.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/group_young_volunteers_standing_big_table_charity_center_office_keeping_records_donated_clothes_food_water.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Volunteer with Us</div><div class="isomer-card-description">Healthcare volunteers serve alongside our healthcare workforce to enhance the resilience of Singapore’s healthcare system.</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <hr>
-<h4><strong>Words from our team</strong></h4>
+<h4><strong>Our People</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="isomer.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Office worker" src="/images/young_asian_business_woman_student_working_online_computer_laptop.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">"Understanding supervisors"</div><div class="isomer-card-description">Everyone is supportive of flexi-work arrangements at MOH. — Audrey Tham, System Design &amp; Governance</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="isomer.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">

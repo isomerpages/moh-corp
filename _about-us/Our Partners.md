@@ -64,7 +64,7 @@ and Singapore Health Services.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://moht.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/synapxelogo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOH Office For Healthcare Transformation</div><div class="isomer-card-description">MOHT focuses on a number of longer-term areas with the potential to contribute to fundamental changes in the way we promote health and deliver care.</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.synapxe.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/mohtlogo.png">
@@ -72,8 +72,11 @@ and Singapore Health Services.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Synapxe Pte Ltd</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-description">Synapxe is the national HealthTech agency inspiring tomorrow’s health.
+The nexus of HealthTech, we connect people and systems to power a healthier
+Singapore. Together with partners, we create intelligent technological
+solutions to improve the health of millions of people every day, everywhere.</div>
+<div class="isomer-card-link">Read more</div>
 </div>
 </a>
 </div>

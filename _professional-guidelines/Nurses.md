@@ -10,7 +10,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nurses.jpg">
 </div>
 <p>
-<br>A nurse is a highly-skilled healthcare professional with diverse responsibilities
+<br>Nurses are highly-skilled healthcare professionals with diverse responsibilities
 like performing clinical procedures, administering medications, patient
 education, and assessing a patient's physical and mental wellness.</p>
 <p>They work closely with doctors and other healthcare professionals to ensure

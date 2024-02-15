@@ -2,6 +2,7 @@ collections:
   professional-guidelines:
     output: true
     order:
+      - Pharmacists.md
       - Nurses.md
       - Doctors.md
       - Dentists.md

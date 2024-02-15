@@ -29,4 +29,15 @@ care services. The healthcare team will assess your needs and guide you
 in making a referral to an appropriate palliative care service. Learn more
 <a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
+<hr>
+<h4><strong>Advanced Care Planning </strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/diverse_male_doctor_senior_male_patient_sitting_bed_discussing_home_medical_services_check_up_home_visit_healthcare_wellbeing_senior_lifestyle_unaltered_min.jpg">
+</div>
+<p>Have you ever thought about how you would like to be cared for when you
+are in your older years, or considered your preferred treatment options
+in the event that you are in a medical crisis and unable to communicate
+your thoughts?&nbsp;</p>
+<p>Take charge of your own care in your elder years with <a href="https://staging-lite.d35ch1v17vfdeg.amplifyapp.com/caring-for-your-health/advanced-care/" rel="noopener noreferrer nofollow" target="_blank">Advance Care Planning.</a>
+</p>

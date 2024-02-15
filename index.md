@@ -44,14 +44,16 @@ sections:
       subtitle: Keep up with the latest news
       id: resources
   - infopic:
-      title: Know your health condition
-      subtitle: Health diseases & conditions
+      title: A healtheir you, with Healthier SG
+      subtitle: Step towards better health
       id: infopic
-      description: Learn about various diseases and conditions and how you can manage them.
+      description: Healthier SG is a national initiative focusing on preventive care,
+        encouraging Singaporeans to take steps to manage their health and lead
+        healthier lifestyles.
       button: Read more
-      url: /caring-for-your-health/health-conditions/
+      url: https://www.healthiersg.gov.sg/
       alt: Image alt text
-      image: /images/young_male_psysician_with_patient_measuring_blood_pressure.jpg
+      image: /images/Healtheir_SG_infopic.JPG
   - textcards:
       title: Keeping healthcare affordable
       subtitle: Schemes and subsidies

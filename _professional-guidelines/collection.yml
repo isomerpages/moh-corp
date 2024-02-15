@@ -2,4 +2,5 @@ collections:
   professional-guidelines:
     output: true
     order:
+      - Dentists.md
       - Allied Health Professionals.md

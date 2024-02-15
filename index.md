@@ -34,9 +34,10 @@ sections:
       description: Mental well-being is part of our overall health. Yet, it is often
         misunderstood.
       button: read more
-      url: /
+      url: https://www.moh.gov.sg/news-highlights/details/launch-of-national-mental-health-and-well-being-strategy
       alt: Image alt text
       image: /images/two_asian_women_chatting_by_window.jpg
+      subtitle: A nationwide effort
   - resources:
       title: Newsroom
       subtitle: Keep up with the latest news

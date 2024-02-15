@@ -22,7 +22,7 @@ sections:
           url: /caring-for-your-health/health-conditions
         - title: Healthcare Affordability
           description: ""
-          url: /managing-medical-expenses/schemes-and-subsidies/medishield-life/
+          url: /managing-medical-expenses/schemes-and-subsidies/alloptions/
       variant: image
       backgroundColor: gray
       size: md

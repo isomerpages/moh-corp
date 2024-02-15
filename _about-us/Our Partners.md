@@ -63,7 +63,7 @@ clusters – National University Health System, National Healthcare Group
 and Singapore Health Services.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://moht.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/synapxelogo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOH Office For Healthcare Transformation</div><div class="isomer-card-description">MOHT focuses on a number of longer-term areas with the potential to contribute to fundamental changes in the way we promote health and deliver care. </div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://moht.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/synapxelogo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOH Office For Healthcare Transformation</div><div class="isomer-card-description">MOHT focuses on a number of longer-term areas with the potential to contribute to fundamental changes in the way we promote health and deliver care.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -77,7 +77,7 @@ and Singapore Health Services.</div>
 </div>
 </a>
 </div>
-<h3><strong>Singapore's Healthcare Clusters</strong></h3>
+<h2><strong>Singapore's Healthcare Clusters</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="360" width="624" src="https://lh7-us.googleusercontent.com/uNsyLRfVISw3N-UUmWoj5pxFh2rlJZF_6jALC74sWW7HyNUfniq3uKR4JGkQvDCnYMa-aIpIe11T7dxH3Wq9tD4p5pJrYNqWxClWGbP7YgG-KfdB6OBIuUpbWUibf3qiH2Rt1MGGeDRu1T7-UzrpjpI">
 </div>

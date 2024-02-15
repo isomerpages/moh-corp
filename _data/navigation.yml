@@ -15,17 +15,17 @@ links:
   - title: Others
     url: /
     sublinks:
-      - title: FAQ
+      - title: FAQs
         url: https://ask.gov.sg/moh
-      - title: Related Sites
-        url: /related-sites
       - title: E-Services
         url: /e-services
       - title: Legislations
         url: /legislations
       - title: Forms
         url: /forms
-      - title: Public Consultations
-        url: /public-consultations
       - title: Professional Guidelines
         url: /professional-guidelines/alliedhealth
+      - title: Public Consultations
+        url: /public-consultations
+      - title: Related Sites
+        url: /related-sites

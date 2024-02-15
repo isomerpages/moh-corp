@@ -10,12 +10,15 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pharmacists.jpg">
 </div>
 <p>
-<br>In shaping an effective strategy for your pharmacy career, prioritize
-staying updated on the latest advancements in pharmaceuticals, integrating
-modern technologies, and creating a supportive environment for your customers.</p>
-<p>Regularly seek feedback, actively participate in the pharmacy community,
-and adhere to industry standards to contribute to the overall success of
-your pharmacy practice.</p>
+<br>Pharmacists are experts in the science and clinical use of medication.
+Pharmacists work in many settings across the healthcare system, including
+the community pharmacies, hospitals, pharmaceutical industry, academia
+and research. They play a vital role in ensuring drug safety and optimal
+use of drugs at every point of the drug supply chain from raw materials
+to the dispensing of medications to patients.</p>
+<p>Beyond the traditional role of dispensing and supply of medications, pharmacists
+are also involved in direct patient care, working closely with other healthcare
+professionals to provide patients with the best treatment.</p>
 <h3><strong>Guidelines</strong></h3>
 <ul data-tight="true" class="tight">
 <li>

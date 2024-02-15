@@ -31,9 +31,9 @@ sections:
   - infopic:
       title: Opening minds about mental heath
       id: infopic
-      description: Our National Mental Health and Well-being Strategy brings mental
-        health care to the community, supporting those who need help readily and
-        without stigma.
+      description: Our National Mental Health and Well-being Strategy aims to bring
+        mental health care to the community, readily supporting those who need
+        help without stigma.
       button: read more
       url: https://www.moh.gov.sg/news-highlights/details/launch-of-national-mental-health-and-well-being-strategy
       alt: Image alt text

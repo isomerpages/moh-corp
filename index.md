@@ -44,7 +44,7 @@ sections:
       subtitle: Keep up with the latest news
       id: resources
   - infopic:
-      title: A Healtheir You, with Healthier SG
+      title: A Healthier You, with Healthier SG
       subtitle: Step towards better health
       id: infopic
       description: Healthier SG is a national initiative focusing on preventive care,

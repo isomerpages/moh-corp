@@ -15,9 +15,9 @@ Pharmacists work in many settings across the healthcare system, including
 the community pharmacies, hospitals, pharmaceutical industry, academia
 and research. They play a vital role in ensuring drug safety and the optimal
 use of drugs, from the manufacturing stage to when patients take them.</p>
-<p>Beyond the traditional role of dispensing and supply of medications, pharmacists
-are also involved in direct patient care, working closely with other healthcare
-professionals to provide patients with the best treatment.</p>
+<p>Beyond dispensing and supplying medications, pharmacists are also involved
+in direct patient care, working closely with other healthcare professionals
+to provide patients with the best treatment.</p>
 <h3><strong>Guidelines</strong></h3>
 <ul data-tight="true" class="tight">
 <li>

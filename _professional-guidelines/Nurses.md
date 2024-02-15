@@ -10,12 +10,11 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nurses.jpg">
 </div>
 <p>
-<br>In crafting a successful nursing strategy, focus on staying informed about
-the latest developments in healthcare, incorporating new technologies,
-and fostering a compassionate environment for your patients.</p>
-<p>Seek feedback regularly, actively engage with your nursing community,
-and adhere to professional standards to contribute to the overall success
-of your nursing career.</p>
+<br>Nursing is a highly-skilled and well-rounded profession with diverse responsibilities
+like performing clinical procedures, and assessing a patient's physical
+and mental wellness.</p>
+<p>Nurses work in different healthcare settings which include polyclinics,
+general hospitals, community hospitals and nursing homes.</p>
 <p></p>
 <h3><strong>Guidelines</strong></h3>
 <ul data-tight="true" class="tight">

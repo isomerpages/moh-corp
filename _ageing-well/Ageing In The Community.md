@@ -15,8 +15,10 @@ in their homes and their communities. It aims to tackle social isolation,
 which is a key cause of frailty, and empower seniors to age actively.</p>
 <hr>
 <h3><strong>Active Ageing</strong></h3>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aged_couple_resting_park_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/senior_male_doing_exercise_park_holding_dumbbell_min.jpg">
 </div>
 <p>Active ageing goes beyond staying healthy; it is also about staying engaged
 physically, socially, and mentally.</p>

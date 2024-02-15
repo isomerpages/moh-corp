@@ -1,4 +1,5 @@
 collections:
   professional-guidelines:
     output: true
-    order: []
+    order:
+      - Allied Health Professionals.md

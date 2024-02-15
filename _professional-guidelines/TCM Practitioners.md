@@ -9,13 +9,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/close_up_hand_holding_acupuncture_needle.png">
 </div>
-<p>The Traditional Chinese Medicine Practitioners Act, which was passed in
-Parliament in 2008, requires all TCM practitioners to be registered with
-the TCM Practitioners Board.</p>
-<p>All Chinese Proprietrary Medicines (CPM), i.e., products in the finished
-dosage forms (e.g., tablets, capsules, liquids) are regulated by the Health
-Sciences Authority (HSA) and must comply with a set of safety and quality
-criteria before they are allowed to be sold in Singapore.</p>
+<p>TCM practitioners are professionals who practice Traditional Chinese Medicine
+(TCM), a holistic healthcare system rooted in ancient Chinese philosophy.</p>
+<p>They use various techniques such as acupuncture, herbal medicine, cupping
+therapy, and dietary advice to promote the overall well-being of the body.
+These practitioners work in various settings, providing alternative and
+complementary approaches to health and wellness.</p>
 <h3><strong>Guidelines</strong></h3>
 <ul data-tight="true" class="tight">
 <li>

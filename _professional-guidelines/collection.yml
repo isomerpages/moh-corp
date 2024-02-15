@@ -2,9 +2,9 @@ collections:
   professional-guidelines:
     output: true
     order:
-      - TCM Practitioners.md
-      - Pharmacists.md
-      - Nurses.md
-      - Doctors.md
-      - Dentists.md
       - Allied Health Professionals.md
+      - Dentists.md
+      - Doctors.md
+      - Nurses.md
+      - Pharmacists.md
+      - TCM Practitioners.md

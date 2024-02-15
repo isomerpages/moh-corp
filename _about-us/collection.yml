@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Who We Are.md
-      - Mission, Vision and Values.md
+      - Mission and Vision.md
       - Our Senior Management.md
       - Organisation Structure.md
       - Our Partners.md

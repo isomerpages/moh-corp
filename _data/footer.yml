@@ -1,5 +1,5 @@
 contact_us: /contact-us/
-show_reach: false
+show_reach: true
 faq: https://ask.gov.sg/moh
 social_media:
   facebook: https://www.facebook.com/SingaporeMOH
@@ -9,4 +9,4 @@ social_media:
   linkedin: https://www.linkedin.com/company/YourAgency
   telegram: https://t.me/MOHsingapore
   tiktok: https://tiktok.com/@MOHSingapore
-feedback: ""
+feedback: /feedback/

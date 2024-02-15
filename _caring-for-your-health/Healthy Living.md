@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Step into a healthier you with Healthier SG</strong></h2>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/running.png">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gAuP1xaQ0Kw?si=9Lj2eAbncbOtlA_4"></iframe>
 </div>
 <p>Healthier SG is a national initiative by the Ministry of Health (MOH)
 that focuses on preventive care.</p>

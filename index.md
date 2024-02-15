@@ -20,7 +20,7 @@ sections:
         - title: COVID-19
           description: ""
           url: /caring-for-your-health/health-conditions
-        - title: MediShield Life
+        - title: Healthcare Affordability
           description: ""
           url: /managing-medical-expenses/schemes-and-subsidies/medishield-life/
       variant: image

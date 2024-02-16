@@ -1,0 +1,10 @@
+---
+title: Industry Consultation for A New Not for profit Private Acute Hospital Model
+permalink: /newsroom/press-release/permalink/
+date: 2024-01-08
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<p>The Ministry of Health (MOH) is inviting private healthcare operators to participate in an industry consultation for a new not-for-profit private acute hospital model. The industry consultation will be held from January to April 2024.<br><br>2. With increasing demand for healthcare services due to an ageing population, acute hospital bed capacity needs to be increased in both the public and private healthcare sectors. The new not-for-profit private acute hospital model is meant to provide more options for Singaporeans who wish to seek care in the private healthcare sector.<br><br>3. The private acute hospital model will incorporate the following features:<br><br>a. Not-for-profit, i.e., profits are not distributed to its shareholders and are instead reinvested to the hospital and/or for charitable and other not-for-profit activities;&nbsp;<br>b. Provide appropriate and affordable care to patients, with a stronger emphasis on cost efficiency and value;&nbsp;<br>c. Focus on serving mainly Singapore Residents; and<br>d. Provide some subsidised acute bed capacity.<br><br>4. Participants of the industry consultation will be invited to provide feedback on the proposed acute hospital requirements and suggest ideas on how the key objectives for the new hospital model can be achieved. More details will be released to participants upon successful registration.<br><br>5. Interested private healthcare operators can register their interest at&nbsp; <a href="https://go.gov.sg/ptehospconsult" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptehospconsult</a>. Registration will close on 21 January 2024. Successful registrants will be notified via email.</p>

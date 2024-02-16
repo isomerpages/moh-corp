@@ -1,0 +1,31 @@
+logo: /images/logo.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Caring For Your Health
+    collection: caring-for-your-health
+  - title: Ageing Well
+    collection: ageing-well
+  - title: Managing Medical Expenses
+    collection: managing-medical-expenses
+  - title: Newsroom
+    resource_room: true
+  - title: Research
+    collection: research
+  - title: Others
+    url: /
+    sublinks:
+      - title: FAQs
+        url: https://ask.gov.sg/moh
+      - title: E-Services
+        url: /e-services
+      - title: Legislations
+        url: /legislations
+      - title: Forms
+        url: /forms
+      - title: Professional Guidelines
+        url: /professional-guidelines/alliedhealth
+      - title: Public Consultations
+        url: /public-consultations
+      - title: Related Sites
+        url: /related-sites

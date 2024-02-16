@@ -1,0 +1,10 @@
+collections:
+  professional-guidelines:
+    output: true
+    order:
+      - Allied Health Professionals.md
+      - Dentists.md
+      - Doctors.md
+      - Nurses.md
+      - Pharmacists.md
+      - TCM Practitioners.md

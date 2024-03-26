@@ -24,5 +24,5 @@ arise, and the patient is unable to communicate.</p>
 <p>MyLegacy@LifeSG is a trusted government platform for end-of-life planning.
 Simple and credible, it's your one-stop digital hub for advance care planning.</p>
 <p>Click <a href="https://mylegacy.life.gov.sg/end-of-life-planning/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-start your your ACP Journey through the MyLegacy Portal.</p>
+start your ACP Journey through the MyLegacy Portal.</p>
 <p></p>

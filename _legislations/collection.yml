@@ -2,4 +2,5 @@ collections:
   legislations:
     output: true
     order:
+      - Regulations, Guidelines and Circulars.md
       - Policies & Legislations.md

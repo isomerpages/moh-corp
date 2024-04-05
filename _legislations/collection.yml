@@ -2,5 +2,6 @@ collections:
   legislations:
     output: true
     order:
+      - Enforcement Actions for Breaches of Regulatory Requirements.md
       - Regulations, Guidelines and Circulars.md
       - Policies & Legislations.md

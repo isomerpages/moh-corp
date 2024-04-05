@@ -2,4 +2,4 @@ collections:
   legislations:
     output: true
     order:
-      - Legislations.md
+      - Policies & Legislations.md

@@ -1,4 +1,5 @@
 collections:
   legislations:
     output: true
-    order: []
+    order:
+      - Legislations.md

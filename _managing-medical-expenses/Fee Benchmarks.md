@@ -18,44 +18,6 @@ Fee benchmarks play a crucial role in making healthcare accessible and
 affordable by preventing overcharging and ensuring fairness in pricing,
 benefiting patients by avoiding excessive costs.</p>
 <p></p>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Understanding Mpox And Global Situation</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Mpox is a viral disease that is caused by infection with monkeypox virus.</p>
-<p></p>
-<p>Prior to 2022, mpox primarily occurred in parts of Central and West Africa
-where it is endemic. Almost all mpox cases occurring outside of Africa
-were linked to international travel to endemic regions or through imported
-animals.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>How Is Mpox Transmitted</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Mpox can spread through exposure to respiratory droplets or direct physical
-contact with the blood, body fluid or lesion material from infected individual
-or contaminated materials. The virus can also spread from animals to humans,
-e.g. through bite or scratch from an infected animal, bush meat preparation,
-or direct contact with the blood, body fluids, or skin or mucosal lesions
-of infected animals.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Treatment And Prevention</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Mpox is typically a self-limiting illness and most mpox patients usually
-recover within two to four weeks, although serious illness and complications
-may occur especially in vulnerable persons (e.g. young children, pregnant
-women or immunocompromised individuals). Treatment is typically symptomatic
-and supportive.</p>
-</div>
-</details>
-</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hospital Bills and Fee Benchmarks</div><div class="isomer-card-description">Learn the cost for your medical treatment and surgery in public and private hospitals. Besides cost of treatment, consider discussing with your doctor the questions in the picture below, to better understand your treatment options.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">

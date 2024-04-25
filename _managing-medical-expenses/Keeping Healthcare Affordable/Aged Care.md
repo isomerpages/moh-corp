@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Keeping Healthcare Affordable
 ---
-<h2><strong>Care for everyday needs and medical bills</strong></h2>
+<h2><strong>Support for seniors and people living with disability</strong></h2>
 <p>Financial support is available as your care needs change. From daily costs
 of living to medical fees assistance, there’s an array of support on hand.</p>
 <div class="isomer-image-wrapper">

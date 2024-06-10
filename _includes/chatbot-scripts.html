@@ -1,52 +1,79 @@
 <html>
   <head>
-    <meta charset="utf-8" />
-    <meta name="theme-color" content="#000000" />
-    <link
-      href="https://webchat.vica.gov.sg/static/css/chat.css"
-      rel="stylesheet"
-      referrerpolicy="origin"
-    />
-    <style type="text/css">
+<style type="text/css">
  #webchat ul {
 	list-style: disc;
 }
+#webchat-container hr
+{     margin-top: 0; }
+#webchat-container a[href$=".pdf"]
+{     margin-left: 0 }
+#webchat-container a[href$=".pdf"]::before
+{     content: "" }
 </style>
   </head>
+ 
+ <body onload="lateLoadChatFile();">
 
-  <div
-    id="webchat"
-    app-id="moh-ask-moh"
-    app-name="Ask MOH"
-    app-color="#004060"
-    app-icon="/images/Vica_Avatar.png"
-    app-welcome-message="How may i help you?"
-    app-base-font-size="16"
-    app-position-right="40"
-    app-position-bottom="40"
-    app-enable-auto-complete="false"
-    app-enable-recommendations="false"
-    app-bot-response-trigger-event="false"
-    app-quick-launch-event="welcome"
-    app-foreground-color1="#FFFFFF"
-    app-foreground-color-2="#2E2E2E"
-    app-background-color2="#FFFFFF"
-    app-canvas-background-color="#DCDCDC"
-    app-button-border-color="#004060"
-    app-quick-reply-button-background-color="#ECECEC"
-    app-auto-complete-background-color="#C2DAE6"
-    app-auto-complete-foreground-color="#2E2E2E"
-    app-auto-complete-hover-color="#90B5C7"
-    app-auto-complete-divider-color="#2E2E2E"
-    app-recommendations-background-color="#C2DAE6"
-    app-recommendations-foreground-color="#2E2E2E"
-    app-recommendations-hover-color="#90B5C7"
-    app-font-family="Open Sans,sans-serif"
-    app-orchestrator-timeout=30000
-  />
-  <script
-    type="text/javascript"
-    src="https://webchat.vica.gov.sg/static/js/chat.js"
-    referrerpolicy="origin"
-  ></script>
+<div 
+            id="webchat"
+            app-id="moh-ask-moh"
+            app-name="Ask MOH"
+            app-color="#004060"
+            app-icon="/images/Vica_Avatar.png"
+
+            app-welcome-message="How may i help you?"
+            app-base-font-size="16"
+            app-position-right="40"
+            app-position-bottom="40"
+
+            app-enable-auto-complete="false"
+            app-enable-recommendations="false"
+            app-bot-response-trigger-event="false"
+
+            app-quick-launch-event="welcome"
+            app-foreground-color1="#FFFFFF"
+            app-foreground-color-2="#2E2E2E"
+            app-background-color2="#FFFFFF"
+            app-canvas-background-color="#DCDCDC"
+            app-button-border-color="#004060"
+            app-quick-reply-button-background-color="#ECECEC"
+
+            app-auto-complete-background-color="#C2DAE6"
+            app-auto-complete-foreground-color="#2E2E2E"
+            app-auto-complete-hover-color="#90B5C7"
+            app-auto-complete-divider-color="#2E2E2E"
+
+            app-recommendations-background-color="#C2DAE6"
+            app-recommendations-foreground-color="#2E2E2E"
+            app-recommendations-hover-color="#90B5C7"
+         
+            app-font-family="Noto Sans"
+            />
+
+<script>
+    function lateLoadChatFile() {
+      setTimeout(() => {
+        const bodyTag = document.getElementsByTagName("body")[0];
+        
+        // Create link element to import chat.css file and append it on the body element
+        let linkTag = document.createElement("link"); 
+        linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";
+        linkTag.type = "text/css"; 
+        linkTag.rel = "stylesheet"; 
+        linkTag.referrerPolicy = "origin"; 
+        bodyTag.appendChild(linkTag);
+        
+        // Create script element to import chat.js file and append it on the body element
+        let scriptTag = document.createElement("script"); 
+        scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";
+        scriptTag.type = "text/javascript"; 
+        scriptTag.referrerPolicy = "origin"; 
+        scriptTag.defer = true; 
+        bodyTag.appendChild(scriptTag);
+      }, 5000);
+    }
+  </script>
+
+ </body>
 </html>

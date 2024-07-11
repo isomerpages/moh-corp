@@ -1,4 +1,5 @@
 collections:
   health-regulation:
     output: true
-    order: []
+    order:
+      - Watchlist.md

@@ -2,5 +2,6 @@ collections:
   health-regulation:
     output: true
     order:
+      - Healthcare Professionals Regulation and Licensing.md
       - Healthcare Services Regulation and Licensing.md
       - Watchlist.md

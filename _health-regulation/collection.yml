@@ -2,6 +2,7 @@ collections:
   health-regulation:
     output: true
     order:
+      - Regulatory Sandbox.md
       - Emerging Regulatory Policy Issues.md
       - Regulation of Human Biomedical Research.md
       - Management of Biological Agents and Toxins.md

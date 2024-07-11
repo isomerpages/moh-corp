@@ -2,12 +2,12 @@ collections:
   health-regulation:
     output: true
     order:
-      - Regulatory Sandbox.md
-      - Emerging Regulatory Policy Issues.md
-      - Regulation of Human Biomedical Research.md
-      - Management of Biological Agents and Toxins.md
-      - Health Information Protection.md
-      - Health Products and Medical Device Regulation.md
-      - Healthcare Professionals Regulation and Licensing.md
-      - Healthcare Services Regulation and Licensing.md
       - Watchlist.md
+      - Healthcare Services Regulation and Licensing.md
+      - Healthcare Professionals Regulation and Licensing.md
+      - Health Products and Medical Device Regulation.md
+      - Health Information Protection.md
+      - Management of Biological Agents and Toxins.md
+      - Regulation of Human Biomedical Research.md
+      - Emerging Regulatory Policy Issues.md
+      - Regulatory Sandbox.md

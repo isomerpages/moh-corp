@@ -19,7 +19,7 @@ sections:
           url: https://agewellsg.gov.sg
         - title: Health Regulation
           description: ""
-          url: /others/watchlist/
+          url: /health-regulation/watchlist/
         - title: Healthcare Affordability
           description: ""
           url: /managing-medical-expenses/schemes-and-subsidies/managing-medical-expenses/

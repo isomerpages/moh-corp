@@ -17,7 +17,7 @@ sections:
         - title: Age Well SG
           description: ""
           url: https://agewellsg.gov.sg
-        - title: COVID-19
+        - title: Health Regulation
           description: ""
           url: /caring-for-your-health/health-conditions
         - title: Healthcare Affordability

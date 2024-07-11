@@ -1,0 +1,4 @@
+collections:
+  health-regulation:
+    output: true
+    order: []

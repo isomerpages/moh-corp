@@ -1,0 +1,10 @@
+---
+title: Feasibility of Making Integrated Shield Plan Insurance Fully Portable
+permalink: /newsroom/parliamentary-q-and-a/integrated-shield-plan/
+date: 2024-01-10
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<p><strong>NOTICE PAPER NO. 2435<br>NOTICE OF QUESTION FOR WRITTEN ANSWER<br>FOR THE SITTING OF PARLIAMENT ON OR AFTER 10 JANUARY 2024</strong></p><p><strong>Name and Constituency of Member of Parliament<br></strong>Dr Tan Wu Meng<br>MP for Jurong GRC</p><p><strong>Question No. 5470</strong></p><p>To ask the Minister for Health whether the Ministry can provide an update on the feasibility studies to make Integrated Shield Plan insurance fully portable.</p><p><strong><u>Answer</u></strong></p><p>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The portability issue typically arises when employees change employers and lose corporate health coverage. This is an issue that NTUC has regularly raised over the years. It has been substantively addressed with MediShield Life, which is an enhanced national insurance plan.</p><p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There have been calls for another type of portability in the individual health insurance market, to allow policyholders to switch insurers without undergoing underwriting again. As these are commercial products, it is unlikely that insurers will do so as there is a strong likelihood that dissatisfied policyholders with pre-existing conditions will seek to change insurers, making the receiving insurer worse off. Therefore, the only way to do this is via Government regulation.</p><p>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; However, this will have other implications. Not all insurance policies are compatible to facilitate portability between insurance companies. While portability may trigger more intense price competition among insurers, there may also be pressures to cut benefits or raise premiums in order to remain sustainable.</p><p>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The feasibility study on Integrated Shield Plan portability is ongoing and we will consider the experiences of other countries who have attempted this.</p>

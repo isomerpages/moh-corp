@@ -1,0 +1,8 @@
+collections:
+  legislations:
+    output: true
+    order:
+      - Policies & Legislations.md
+      - Regulations, Guidelines and Circulars.md
+      - Enforcement Actions for Breaches of Regulatory Requirements.md
+      - Suspensions or Revocations from Healthcare Financing Schemes.md

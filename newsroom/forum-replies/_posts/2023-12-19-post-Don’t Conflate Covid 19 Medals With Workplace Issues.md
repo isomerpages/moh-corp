@@ -1,0 +1,10 @@
+---
+title: Don’t Conflate Covid 19 Medals With Workplace Issues
+permalink: /newsroom/forum-replies/covid-19-medals/
+date: 2023-12-19
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<p>We refer to Dr Winston Lee’s letter “<a href="https://www.straitstimes.com/opinion/forum/forum-covid-19-medals-not-the-best-way-to-show-appreciation-to-healthcare-workers" rel="noopener noreferrer nofollow" target="_blank">COVID-19 medals not the best way to show appreciation to healthcare workers</a>” (Dec 16).<br><br>The COVID-19 Resilience Medal is a national award to honour the substantive contributions of those who participated directly in Singapore’s fight against COVID-19. As this was a major global pandemic crisis that required a concerted national effort to overcome, there were many awardees.<br><br>To recognise and appreciate the awardees and at the same time cater to the large number of awardees, the Ministry of Health (MOH) and MOH Holdings organised a five-day event that let them share the moment with family members and friends who supported them during the national crisis.<br><br>The event was simple and dignified, and contrary to Dr Lee’s comment, not extravagant.<br><br>Dr Lee also raised other issues such as work environment and remuneration. While these may be valid issues, they are not to be conflated with the awarding of the COVID-19 Resilience Medal. MOH has consistently tried to address such issues, and has introduced initiatives over the years to ensure that our healthcare workers have a meaningful and rewarding career.<br><br>Over the years, we have been able to recruit our fair share of talent, which indicates that healthcare remains an attractive and respected sector, even as we continue to strive for improvement.<br><br><strong>Gloria Chin<br>Group Director, Corporate Group<br>Ministry of Health</strong></p>
